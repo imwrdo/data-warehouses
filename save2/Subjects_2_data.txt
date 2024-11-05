@@ -1,0 +1,50 @@
+700,Hurtownie_Danych_9,t000200,2003,Wyklad | Laboratorium | Projekt,205,2003
+701,Multimedia_I_Interfejsy_3,t000428,2004,Wyklad | Laboratorium,163,2003
+702,Języki_Programowania_6,t000321,2003,Wyklad | Laboratorium,208,2002
+703,Multimedia_I_Interfejsy_5,t001080,2002,Wyklad | Laboratorium | Projekt,134,2001
+704,Matematyka_Dyskretna_0,t001025,2004,Wyklad | Laboratorium,37,2001
+705,Hurtownie_Danych_6,t000183,2004,Wyklad | Laboratorium,73,2001
+706,Bazy_Danych_6,t001067,2004,Wyklad | Laboratorium,191,2003
+707,Programowanie_7,t000372,2004,Wyklad | Laboratorium | Projekt,31,2002
+708,Programowanie_1,t000047,2004,Wyklad | Cwiczenia,208,2004
+709,Analiza_Algorytmów_6,t000421,2004,Wyklad | Cwiczenia,99,2001
+710,Programowanie_3,t000368,2003,Wyklad | Laboratorium | Projekt,250,2002
+711,Analiza_Matematyczna_2,t000432,2003,Wyklad | Cwiczenia,139,2001
+712,Języki_Programowania_0,t000090,2004,Wyklad | Laboratorium,190,2002
+713,Architektura_Komputerowa_7,t000914,2003,Wyklad | Cwiczenia,15,2003
+714,Grafika_Komputerowa_2,t000129,2003,Wyklad | Cwiczenia,115,2003
+715,Matematyka_Dyskretna_0,t000312,2004,Wyklad | Laboratorium | Projekt,22,2004
+716,Hurtownie_Danych_0,t000001,2003,Wyklad | Laboratorium,278,2003
+717,Programowanie_2,t000927,2004,Wyklad | Cwiczenia,284,2004
+718,Matematyka_Dyskretna_9,t000880,2004,Wyklad | Cwiczenia,267,2004
+719,Hurtownie_Danych_8,t000542,2004,Wyklad | Cwiczenia,202,2003
+720,Matematyka_Dyskretna_0,t000303,2004,Wyklad | Cwiczenia,246,2002
+721,Bazy_Danych_9,t000649,2004,Wyklad | Laboratorium | Projekt,188,2004
+722,Analiza_Matematyczna_4,t000542,2004,Wyklad | Laboratorium | Projekt,39,2004
+723,Grafika_Komputerowa_9,t001029,2002,Wyklad | Cwiczenia,34,2001
+724,Hurtownie_Danych_9,t000564,2003,Wyklad | Laboratorium | Projekt,78,2002
+725,Analiza_Algorytmów_1,t000053,2004,Wyklad | Laboratorium | Projekt,298,2004
+726,Analiza_Matematyczna_8,t000354,2004,Wyklad | Cwiczenia,104,2003
+727,Matematyka_Dyskretna_2,t000211,2004,Wyklad | Cwiczenia,291,2003
+728,Programowanie_2,t000265,2004,Wyklad | Cwiczenia,4,2002
+729,Analiza_Algorytmów_9,t000778,2004,Wyklad | Laboratorium,77,2003
+730,Analiza_Matematyczna_9,t000330,2004,Wyklad | Cwiczenia,144,2002
+731,Języki_Programowania_2,t000243,2002,Wyklad | Laboratorium,178,2002
+732,Programowanie_4,t000107,2004,Wyklad | Laboratorium,212,2004
+733,Analiza_Matematyczna_3,t000693,2003,Wyklad | Laboratorium | Projekt,247,2003
+734,Bazy_Danych_6,t000153,2004,Wyklad | Cwiczenia,109,2004
+735,Matematyka_Dyskretna_7,t000454,2003,Wyklad | Cwiczenia,271,2003
+736,Grafika_Komputerowa_1,t000154,2003,Wyklad | Laboratorium | Projekt,57,2003
+737,Architektura_Komputerowa_8,t001045,2003,Wyklad | Laboratorium,298,2003
+738,Bazy_Danych_0,t001082,2004,Wyklad | Laboratorium,249,2004
+739,Programowanie_5,t000337,2002,Wyklad | Cwiczenia,245,2002
+740,Architektura_Komputerowa_0,t000538,2004,Wyklad | Laboratorium | Projekt,271,2003
+741,Multimedia_I_Interfejsy_1,t000439,2004,Wyklad | Laboratorium,68,2003
+742,Architektura_Komputerowa_9,t000582,2003,Wyklad | Laboratorium | Projekt,166,2001
+743,Multimedia_I_Interfejsy_7,t000910,2004,Wyklad | Cwiczenia,277,2004
+744,Hurtownie_Danych_3,t000039,2002,Wyklad | Laboratorium,26,2001
+745,Matematyka_Dyskretna_0,t001067,2002,Wyklad | Laboratorium,193,2001
+746,Analiza_Algorytmów_0,t000531,2003,Wyklad | Laboratorium | Projekt,192,2003
+747,Programowanie_9,t000432,2004,Wyklad | Laboratorium,159,2002
+748,Języki_Programowania_6,t000456,2004,Wyklad | Laboratorium | Projekt,294,2004
+749,Multimedia_I_Interfejsy_0,t000319,2004,Wyklad | Cwiczenia,228,2002
