@@ -52,6 +52,7 @@ CREATE TABLE Subjects(
     isCurrent BIT NOT NULL,
 	PRIMARY KEY(SubjectID)
 );
+
  -- Fact table 
 CREATE TABLE Classes(
     StudentID INT FOREIGN KEY REFERENCES Student(StudentID),
@@ -62,21 +63,49 @@ CREATE TABLE Classes(
     Grade DECIMAL CHECK(Grade >= 0 AND Grade<7),
     PRIMARY KEY(StudentID,TeacherID,SubjectID,DateID,TimeID)
 );
+
+
+-- DD TransactionID
+CREATE TABLE Transaction_(
+    TransactionID INT NOT NULL CHECK(ISNUMERIC(TransactionID)=1),
+    PRIMARY KEY(TransactionID)
+);
+
+-- DD PartnerID
+CREATE TABLE Partner_(
+    PartnerID INT NOT NULL CHECK(ISNUMERIC(PartnerID)=1),
+    PRIMARY KEY(PartnerID)
+);
+
 -- Fact table
 CREATE TABLE Funding(
     SubjectID VARCHAR(3) FOREIGN KEY REFERENCES Subjects(SubjectID),
     DateID INT FOREIGN KEY REFERENCES Date_(DateID),
-    TransactionID INT NOT NULL,
-    PartnerID INT NOT NULL,
+
+    -- DD TransactionID
+    TransactionID INT FOREIGN KEY REFERENCES Transaction_(TransactionID),
+    -- DD PartnerID
+    PartnerID INT FOREIGN KEY REFERENCES Partner_(PartnerID),
+
     Grant_amount DECIMAL NOT NULL CHECK(ISNUMERIC(Grant_amount)=1),
     PRIMARY KEY(SubjectID,DateID,TransactionID,PartnerID)
 );
+
+-- DD ExaminatorID
+CREATE TABLE Examinator(
+    ExaminatorID INT NOT NULL CHECK(ISNUMERIC(ExaminatorID)=1),
+    PRIMARY KEY(ExaminatorID)
+);
+
 -- Fact table 
 CREATE TABLE Exam(
     StudentID INT FOREIGN KEY REFERENCES Student(StudentID),
     SubjectID VARCHAR(3) FOREIGN KEY REFERENCES Subjects(SubjectID),
     DateID INT FOREIGN KEY REFERENCES Date_(DateID),
-    ExaminatorID INT NOT NULL CHECK(ISNUMERIC(ExaminatorID)=1),
+
+    -- DD ExaminatorID
+    ExaminatorID INT FOREIGN KEY REFERENCES Examinator(ExaminatorID),
+
     Grade DECIMAL NOT NULL CHECK(Grade>0 AND Grade<100),
     PRIMARY KEY(StudentID,SubjectID,DateID,ExaminatorID)
 );
