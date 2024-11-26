@@ -42,115 +42,75 @@ VALUES
     (1010, 'Zofia', 'Wojciechowska', '012-345-678', 'zofia.w@gmail.com', '4-B', 2025, 1);
 
 -- Insert into Teacher
-INSERT INTO Teacher (TeacherID, TeacherNo, First_name, Family_name, Phone_number)
+INSERT INTO Teacher (TeacherNo, First_name, Family_name, Phone_number)
 VALUES
-    ('t000001', 1, 'Jan', 'Kowalski', '123-456-789'),
-    ('t000002', 2, 'Karolina', 'Nowak', '234-567-890'),
-    ('t000003', 3, 'Michał', 'Lewandowski', '345-678-901'),
-    ('t000004', 4, 'Agnieszka', 'Wiśniewska', '456-789-012'),
-    ('t000005', 5, 'Kamil', 'Zieliński', '567-890-123'),
-    ('t000006', 6, 'Beata', 'Kamińska', '678-901-234'),
-    ('t000007', 7, 'Szymon', 'Krawczyk', '789-012-345'),
-    ('t000008', 8, 'Ewelina', 'Piotrowska', '890-123-456'),
-    ('t000009', 9, 'Paweł', 'Wojciechowski', '901-234-567'),
-    ('t000010', 10, 'Sylwia', 'Zawadzka', '012-345-678');
+    (1, 'Jan', 'Kowalski', '123-456-789'),
+    (2, 'Karolina', 'Nowak', '234-567-890'),
+    (3, 'Michał', 'Lewandowski', '345-678-901'),
+    (4, 'Agnieszka', 'Wiśniewska', '456-789-012'),
+    (5, 'Kamil', 'Zieliński', '567-890-123'),
+    (6, 'Beata', 'Kamińska', '678-901-234'),
+    (7, 'Szymon', 'Krawczyk', '789-012-345'),
+    (8, 'Ewelina', 'Piotrowska', '890-123-456'),
+    (9, 'Paweł', 'Wojciechowski', '901-234-567'),
+    (10, 'Sylwia', 'Zawadzka', '012-345-678');
+
 
 -- Insert into Subjects
-INSERT INTO Subjects (SubjectID, SubjectNo, Subject_name, Main_teacher, Year_of_actualization, Types_of_lessons, hourRange, Year_, isCurrent)
+INSERT INTO Subjects (SubjectNo, Subject_name, Main_teacher, Year_of_actualization, Types_of_lessons, hourRange, Year_, isCurrent)
 VALUES
-    ('001', 1, 'Matematyka', 't000001', 2020, 'Teoria, Praktyka', '10-12', 2023, 1),
-    ('002', 2, 'Fizyka', 't000002', 2019, 'Teoria', '9-11', 2023, 1),
-    ('003', 3, 'Chemia', 't000003', 2018, 'Praktyka', '12-14', 2023, 1),
-    ('004', 4, 'Biologia', 't000004', 2021, 'Teoria', '10-12', 2023, 1),
-    ('005', 5, 'Historia', 't000005', 2022, 'Teoria', '9-11', 2023, 1),
-    ('006', 6, 'Geografia', 't000006', 2017, 'Praktyka', '11-13', 2023, 1),
-    ('007', 7, 'Informatyka', 't000007', 2021, 'Teoria, Praktyka', '13-15', 2023, 1),
-    ('008', 8, 'Język Polski', 't000008', 2023, 'Teoria', '10-12', 2023, 1),
-    ('009', 9, 'W-F', 't000009', 2020, 'Praktyka', '8-10', 2023, 1),
-    ('010', 10, 'Język Angielski', 't000010', 2019, 'Teoria, Praktyka', '12-14', 2023, 1);
+    (1, 'Matematyka', 1, 2020, 'Teoria, Praktyka', '10-12', 2023, 1),
+    (2, 'Fizyka', 2, 2019, 'Teoria', '9-11', 2023, 1),
+    (3, 'Chemia', 3, 2018, 'Praktyka', '12-14', 2023, 1),
+    (4, 'Biologia', 4, 2021, 'Teoria', '10-12', 2023, 1),
+    (5, 'Historia', 5, 2022, 'Teoria', '9-11', 2023, 1),
+    (6, 'Geografia', 6, 2017, 'Praktyka', '11-13', 2023, 1),
+    (7, 'Informatyka', 7, 2021, 'Teoria, Praktyka', '13-15', 2023, 1),
+    (8, 'Język Polski', 8, 2023, 'Teoria', '10-12', 2023, 1),
+    (9, 'W-F', 9, 2020, 'Praktyka', '8-10', 2023, 1),
+    (10, 'Język Angielski', 10, 2019, 'Teoria, Praktyka', '12-14', 2023, 1);
 
--- DDs 
-    -- DD TransactionID
-INSERT INTO Transaction_ (TransactionID)
-VALUES
-    (1),
-    (2),
-    (3),
-    (4),
-    (5),
-    (6),
-    (7),
-    (8),
-    (9),
-    (10);
 
-     -- DD PartnerID
-INSERT INTO Partner_ (PartnerID)
-VALUES
-    (1),
-    (2),
-    (3),
-    (4),
-    (5),
-    (6),
-    (7),
-    (8),
-    (9),
-    (10);
-
-    -- DD ExaminatorID
-INSERT INTO Examinator (ExaminatorID)
-VALUES
-    (1),
-    (2),
-    (3),
-    (4),
-    (5),
-    (6),
-    (7),
-    (8),
-    (9),
-    (10);
 
 
 -- Insert into Classes
 INSERT INTO Classes (StudentID, TeacherID, SubjectID, DateID, TimeID, Grade)
 VALUES
-    (1, 't000001', '001', 1, 1, 5.0),
-    (2, 't000002', '002', 2, 2, 4.5),
-    (3, 't000003', '003', 3, 3, 3.0),
-    (4, 't000004', '004', 4, 4, 4.0),
-    (5, 't000005', '005', 5, 5, 5.5),
-    (6, 't000006', '006', 6, 6, 3.5),
-    (7, 't000007', '007', 7, 7, 4.0),
-    (8, 't000008', '008', 8, 8, 5.0),
-    (9, 't000009', '009', 9, 9, 2.5),
-    (10, 't000010', '010', 10, 10, 3.0);
+    (1, 1, 1, 1, 1, 5.0),
+    (2, 2, 2, 2, 2, 4.5),
+    (3, 3, 3, 3, 3, 3.0),
+    (4, 4, 4, 4, 4, 4.0),
+    (5, 5, 5, 5, 5, 5.5),
+    (6, 6, 6, 6, 6, 3.5),
+    (7, 7, 7, 7, 7, 4.0),
+    (8, 8, 8, 8, 8, 5.0),
+    (9, 9, 9, 9, 9, 2.5),
+    (10, 10, 10, 10, 10, 3.0);
 
 -- Insert into Funding
 INSERT INTO Funding (SubjectID, DateID, TransactionID, PartnerID, Grant_amount)
 VALUES
-    ('001', 1, 1, 1, 15000.00),
-    ('002', 2, 2, 2, 12000.00),
-    ('003', 3, 3, 3, 18000.00),
-    ('004', 4, 4, 4, 25000.00),
-    ('005', 5, 5, 5, 17000.00),
-    ('006', 6, 6, 6, 11000.00),
-    ('007', 7, 7, 7, 13000.00),
-    ('008', 8, 8, 8, 22000.00),
-    ('009', 9, 9, 9, 19000.00),
-    ('010', 10, 10, 10, 20000.00);
+    (1, 1, 1, 1, 15000.00),
+    (2, 2, 2, 2, 12000.00),
+    (3, 3, 3, 3, 18000.00),
+    (4, 4, 4, 4, 25000.00),
+    (5, 5, 5, 5, 17000.00),
+    (6, 6, 6, 6, 11000.00),
+    (7, 7, 7, 7, 13000.00),
+    (8, 8, 8, 8, 22000.00),
+    (9, 9, 9, 9, 19000.00),
+    (10, 10, 10, 10, 20000.00);
 
 -- Insert into Exam
 INSERT INTO Exam (StudentID, SubjectID, DateID, ExaminatorID, Grade)
 VALUES
-    (1, '001', 1, 1, 85.0),
-    (2, '002', 2, 2, 90.0),
-    (3, '003', 3, 3, 75.0),
-    (4, '004', 4, 4, 80.0),
-    (5, '005', 5, 5, 95.0),
-    (6, '006', 6, 6, 88.0),
-    (7, '007', 7, 7, 70.0),
-    (8, '008', 8, 8, 85.0),
-    (9, '009', 9, 9, 60.0),
-    (10, '010', 10, 10, 78.0);
+    (1, 1, 1, 1, 85.0),
+    (2, 2, 2, 2, 90.0),
+    (3, 3, 3, 3, 75.0),
+    (4, 4, 4, 4, 80.0),
+    (5, 5, 5, 5, 95.0),
+    (6, 6, 6, 6, 88.0),
+    (7, 7, 7, 7, 70.0),
+    (8, 8, 8, 8, 85.0),
+    (9, 9, 9, 9, 60.0),
+    (10, 10, 10, 10, 78.0);
