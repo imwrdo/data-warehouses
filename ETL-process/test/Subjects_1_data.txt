@@ -1,0 +1,701 @@
+0,Architektura_Komputerowa_6,35,1959,Wyklad | Cwiczenia,142,1910,1
+1,Hurtownie_Danych_5,832,1964,Wyklad | Laboratorium,206,1915,1
+2,Analiza_Matematyczna_8,600,1995,Wyklad | Laboratorium,183,1968,1
+3,Bazy_Danych_6,511,1959,Wyklad | Cwiczenia,8,1920,1
+4,Analiza_Matematyczna_1,302,1999,Wyklad | Cwiczenia,137,1978,1
+5,Bazy_Danych_4,249,1997,Wyklad | Laboratorium | Projekt,140,1987,1
+6,Hurtownie_Danych_3,139,1998,Wyklad | Laboratorium | Projekt,183,1995,1
+7,Programowanie_5,301,1979,Wyklad | Laboratorium,206,1900,1
+8,Analiza_Algorytmów_1,410,1983,Wyklad | Laboratorium | Projekt,242,1983,1
+9,Analiza_Algorytmów_8,910,1978,Wyklad | Laboratorium | Projekt,122,1938,1
+10,Multimedia_I_Interfejsy_8,666,1916,Wyklad | Cwiczenia,212,1901,1
+11,Matematyka_Dyskretna_3,366,1968,Wyklad | Laboratorium,136,1943,1
+12,Analiza_Matematyczna_0,590,1933,Wyklad | Laboratorium,29,1911,1
+13,Języki_Programowania_4,789,1929,Wyklad | Cwiczenia,240,1928,1
+14,Programowanie_5,105,1999,Wyklad | Laboratorium | Projekt,190,1997,1
+15,Języki_Programowania_0,798,1964,Wyklad | Cwiczenia,56,1945,1
+16,Architektura_Komputerowa_8,987,1992,Wyklad | Laboratorium | Projekt,77,1985,1
+17,Programowanie_8,908,1998,Wyklad | Cwiczenia,17,1943,1
+18,Języki_Programowania_3,15,1980,Wyklad | Cwiczenia,217,1978,1
+19,Multimedia_I_Interfejsy_6,218,1932,Wyklad | Cwiczenia,82,1924,1
+20,Programowanie_3,258,1997,Wyklad | Laboratorium | Projekt,140,1991,1
+21,Multimedia_I_Interfejsy_2,88,1993,Wyklad | Cwiczenia,6,1974,1
+22,Analiza_Algorytmów_8,732,1972,Wyklad | Cwiczenia,196,1931,1
+23,Architektura_Komputerowa_7,910,1982,Wyklad | Laboratorium,192,1924,1
+24,Bazy_Danych_9,276,1955,Wyklad | Laboratorium | Projekt,39,1901,1
+25,Bazy_Danych_6,227,1964,Wyklad | Cwiczenia,7,1950,1
+26,Hurtownie_Danych_3,487,1993,Wyklad | Cwiczenia,23,1984,1
+27,Bazy_Danych_6,42,1953,Wyklad | Cwiczenia,240,1914,1
+28,Języki_Programowania_8,801,1989,Wyklad | Laboratorium,281,1985,1
+29,Grafika_Komputerowa_0,816,1931,Wyklad | Laboratorium,88,1900,1
+30,Języki_Programowania_8,578,1976,Wyklad | Cwiczenia,76,1973,1
+31,Grafika_Komputerowa_4,915,1999,Wyklad | Laboratorium | Projekt,215,1999,1
+32,Architektura_Komputerowa_7,439,1990,Wyklad | Laboratorium,84,1988,1
+33,Analiza_Matematyczna_0,926,1983,Wyklad | Cwiczenia,131,1980,1
+34,Analiza_Matematyczna_0,205,1978,Wyklad | Laboratorium,235,1951,1
+35,Architektura_Komputerowa_4,734,1921,Wyklad | Laboratorium | Projekt,242,1905,1
+36,Analiza_Algorytmów_2,749,1999,Wyklad | Laboratorium,145,1992,1
+37,Hurtownie_Danych_2,368,1962,Wyklad | Laboratorium | Projekt,196,1925,1
+38,Hurtownie_Danych_8,61,1935,Wyklad | Laboratorium,172,1917,1
+39,Analiza_Algorytmów_0,842,1989,Wyklad | Laboratorium,251,1980,1
+40,Hurtownie_Danych_4,836,1987,Wyklad | Laboratorium | Projekt,253,1972,1
+41,Multimedia_I_Interfejsy_5,258,1974,Wyklad | Laboratorium | Projekt,112,1937,1
+42,Analiza_Algorytmów_7,263,1922,Wyklad | Cwiczenia,9,1913,1
+43,Multimedia_I_Interfejsy_0,919,1984,Wyklad | Cwiczenia,208,1903,1
+44,Bazy_Danych_7,272,1966,Wyklad | Laboratorium | Projekt,239,1917,1
+45,Grafika_Komputerowa_7,700,1997,Wyklad | Laboratorium | Projekt,219,1996,1
+46,Architektura_Komputerowa_3,723,1952,Wyklad | Laboratorium | Projekt,80,1950,1
+47,Architektura_Komputerowa_8,86,1923,Wyklad | Cwiczenia,278,1905,1
+48,Programowanie_5,693,1955,Wyklad | Cwiczenia,231,1917,1
+49,Grafika_Komputerowa_3,810,1939,Wyklad | Cwiczenia,11,1912,1
+50,Grafika_Komputerowa_7,560,1977,Wyklad | Laboratorium | Projekt,31,1931,1
+51,Grafika_Komputerowa_1,389,1928,Wyklad | Cwiczenia,202,1916,1
+52,Analiza_Algorytmów_0,912,1999,Wyklad | Cwiczenia,243,1953,1
+53,Analiza_Matematyczna_3,792,1973,Wyklad | Laboratorium | Projekt,149,1907,1
+54,Programowanie_4,622,1999,Wyklad | Laboratorium,158,1992,1
+55,Programowanie_0,655,1991,Wyklad | Laboratorium,76,1970,1
+56,Matematyka_Dyskretna_8,894,1937,Wyklad | Laboratorium,270,1919,1
+57,Języki_Programowania_5,291,1994,Wyklad | Laboratorium | Projekt,278,1960,1
+58,Analiza_Matematyczna_0,748,1973,Wyklad | Laboratorium | Projekt,281,1961,1
+59,Programowanie_9,153,1948,Wyklad | Laboratorium,169,1928,1
+60,Grafika_Komputerowa_2,437,1999,Wyklad | Laboratorium,146,1989,1
+61,Analiza_Algorytmów_9,742,1982,Wyklad | Laboratorium | Projekt,194,1934,1
+62,Architektura_Komputerowa_3,832,1977,Wyklad | Laboratorium,270,1973,1
+63,Grafika_Komputerowa_7,49,1943,Wyklad | Cwiczenia,227,1940,1
+64,Analiza_Algorytmów_6,900,1981,Wyklad | Laboratorium,94,1925,1
+65,Hurtownie_Danych_1,928,1989,Wyklad | Cwiczenia,197,1955,1
+66,Multimedia_I_Interfejsy_3,301,1998,Wyklad | Cwiczenia,133,1993,1
+67,Analiza_Algorytmów_8,130,1985,Wyklad | Laboratorium,122,1943,1
+68,Hurtownie_Danych_5,823,1943,Wyklad | Cwiczenia,287,1925,1
+69,Analiza_Algorytmów_7,477,1992,Wyklad | Laboratorium | Projekt,89,1948,1
+70,Analiza_Matematyczna_9,91,1956,Wyklad | Laboratorium,186,1924,1
+71,Języki_Programowania_2,744,1995,Wyklad | Cwiczenia,56,1962,1
+72,Matematyka_Dyskretna_2,789,1999,Wyklad | Laboratorium,53,1993,1
+73,Analiza_Matematyczna_6,498,1981,Wyklad | Laboratorium,295,1961,1
+74,Programowanie_0,719,1994,Wyklad | Laboratorium,138,1905,1
+75,Hurtownie_Danych_6,451,1992,Wyklad | Laboratorium | Projekt,196,1980,1
+76,Bazy_Danych_2,359,1951,Wyklad | Cwiczenia,50,1950,1
+77,Programowanie_8,97,1984,Wyklad | Laboratorium,136,1942,1
+78,Architektura_Komputerowa_2,554,1935,Wyklad | Laboratorium,149,1911,1
+79,Analiza_Algorytmów_3,324,1923,Wyklad | Laboratorium | Projekt,11,1909,1
+80,Analiza_Matematyczna_9,430,1999,Wyklad | Laboratorium | Projekt,290,1969,1
+81,Języki_Programowania_7,973,1997,Wyklad | Laboratorium | Projekt,248,1983,1
+82,Matematyka_Dyskretna_8,851,1983,Wyklad | Cwiczenia,63,1971,1
+83,Języki_Programowania_3,399,1980,Wyklad | Cwiczenia,32,1913,1
+84,Hurtownie_Danych_3,873,1969,Wyklad | Laboratorium | Projekt,166,1966,1
+85,Programowanie_3,833,1994,Wyklad | Laboratorium,178,1937,1
+86,Multimedia_I_Interfejsy_9,687,1978,Wyklad | Laboratorium,169,1956,1
+87,Bazy_Danych_7,219,1955,Wyklad | Laboratorium | Projekt,45,1951,1
+88,Programowanie_9,768,1967,Wyklad | Laboratorium,178,1933,1
+89,Matematyka_Dyskretna_7,809,1960,Wyklad | Laboratorium | Projekt,182,1959,1
+90,Hurtownie_Danych_8,345,1984,Wyklad | Laboratorium,26,1970,1
+91,Analiza_Matematyczna_1,958,1994,Wyklad | Laboratorium | Projekt,54,1991,1
+92,Matematyka_Dyskretna_0,99,1995,Wyklad | Cwiczenia,68,1990,1
+93,Programowanie_1,646,1984,Wyklad | Cwiczenia,254,1931,1
+94,Architektura_Komputerowa_6,276,1973,Wyklad | Laboratorium,219,1965,1
+95,Grafika_Komputerowa_5,80,1972,Wyklad | Cwiczenia,154,1953,1
+96,Grafika_Komputerowa_5,250,1957,Wyklad | Laboratorium,119,1904,1
+97,Grafika_Komputerowa_8,835,1992,Wyklad | Cwiczenia,270,1936,1
+98,Multimedia_I_Interfejsy_7,217,1996,Wyklad | Laboratorium,188,1981,1
+99,Matematyka_Dyskretna_7,8,1966,Wyklad | Cwiczenia,247,1965,1
+100,Języki_Programowania_9,143,1988,Wyklad | Cwiczenia,80,1959,1
+101,Hurtownie_Danych_8,434,1986,Wyklad | Cwiczenia,71,1968,1
+102,Architektura_Komputerowa_5,559,1996,Wyklad | Laboratorium,80,1934,1
+103,Bazy_Danych_3,775,1950,Wyklad | Laboratorium,158,1908,1
+104,Hurtownie_Danych_3,361,1989,Wyklad | Laboratorium,204,1979,1
+105,Języki_Programowania_7,790,1981,Wyklad | Laboratorium,254,1924,1
+106,Grafika_Komputerowa_8,559,1981,Wyklad | Laboratorium | Projekt,186,1953,1
+107,Matematyka_Dyskretna_6,123,1963,Wyklad | Laboratorium | Projekt,123,1903,1
+108,Multimedia_I_Interfejsy_5,100,1979,Wyklad | Laboratorium | Projekt,129,1936,1
+109,Bazy_Danych_7,877,1990,Wyklad | Laboratorium,22,1968,1
+110,Hurtownie_Danych_8,496,1946,Wyklad | Cwiczenia,164,1903,1
+111,Multimedia_I_Interfejsy_1,10,1988,Wyklad | Laboratorium,294,1985,1
+112,Programowanie_4,297,1936,Wyklad | Laboratorium | Projekt,133,1931,1
+113,Bazy_Danych_8,473,1986,Wyklad | Laboratorium | Projekt,170,1929,1
+114,Bazy_Danych_2,357,1999,Wyklad | Laboratorium | Projekt,147,1966,1
+115,Języki_Programowania_1,12,1991,Wyklad | Laboratorium | Projekt,59,1981,1
+116,Języki_Programowania_9,776,1995,Wyklad | Cwiczenia,136,1932,1
+117,Bazy_Danych_7,897,1992,Wyklad | Laboratorium | Projekt,171,1933,1
+118,Grafika_Komputerowa_8,150,1984,Wyklad | Cwiczenia,116,1925,1
+119,Języki_Programowania_5,572,1993,Wyklad | Cwiczenia,91,1939,1
+120,Hurtownie_Danych_9,755,1974,Wyklad | Laboratorium,208,1901,1
+121,Analiza_Matematyczna_0,518,1981,Wyklad | Cwiczenia,266,1921,1
+122,Analiza_Matematyczna_4,441,1995,Wyklad | Laboratorium | Projekt,83,1980,1
+123,Matematyka_Dyskretna_2,574,1981,Wyklad | Laboratorium | Projekt,154,1980,1
+124,Programowanie_3,552,1991,Wyklad | Cwiczenia,43,1939,1
+125,Analiza_Algorytmów_4,754,1949,Wyklad | Laboratorium | Projekt,106,1936,1
+126,Analiza_Algorytmów_4,200,1994,Wyklad | Laboratorium,138,1972,1
+127,Języki_Programowania_8,206,1987,Wyklad | Cwiczenia,115,1964,1
+128,Architektura_Komputerowa_4,853,1936,Wyklad | Laboratorium,41,1923,1
+129,Architektura_Komputerowa_7,797,1933,Wyklad | Laboratorium,244,1912,1
+130,Analiza_Algorytmów_9,561,1968,Wyklad | Laboratorium,60,1960,1
+131,Architektura_Komputerowa_5,585,1970,Wyklad | Laboratorium,190,1970,1
+132,Analiza_Matematyczna_8,357,1982,Wyklad | Laboratorium | Projekt,28,1979,1
+133,Programowanie_6,755,1992,Wyklad | Laboratorium,78,1973,1
+134,Architektura_Komputerowa_0,579,1985,Wyklad | Laboratorium,74,1904,1
+135,Analiza_Algorytmów_8,107,1996,Wyklad | Laboratorium | Projekt,209,1932,1
+136,Matematyka_Dyskretna_8,172,1996,Wyklad | Laboratorium,132,1978,1
+137,Analiza_Matematyczna_7,451,1945,Wyklad | Laboratorium,273,1904,1
+138,Multimedia_I_Interfejsy_4,585,1964,Wyklad | Cwiczenia,17,1955,1
+139,Matematyka_Dyskretna_7,1,1951,Wyklad | Laboratorium,186,1904,1
+140,Bazy_Danych_8,777,1996,Wyklad | Laboratorium | Projekt,33,1993,1
+141,Hurtownie_Danych_5,596,1984,Wyklad | Laboratorium,50,1954,1
+142,Języki_Programowania_2,234,1999,Wyklad | Laboratorium | Projekt,121,1991,1
+143,Architektura_Komputerowa_9,41,1998,Wyklad | Laboratorium,259,1987,1
+144,Języki_Programowania_9,922,1986,Wyklad | Cwiczenia,211,1976,1
+145,Języki_Programowania_5,538,1980,Wyklad | Cwiczenia,59,1952,1
+146,Architektura_Komputerowa_1,824,1989,Wyklad | Laboratorium | Projekt,29,1971,1
+147,Analiza_Matematyczna_2,896,1968,Wyklad | Cwiczenia,111,1957,1
+148,Analiza_Algorytmów_0,285,1945,Wyklad | Laboratorium,168,1916,1
+149,Analiza_Matematyczna_2,330,1930,Wyklad | Cwiczenia,18,1906,1
+150,Bazy_Danych_4,13,1951,Wyklad | Cwiczenia,116,1943,1
+151,Analiza_Matematyczna_9,91,1993,Wyklad | Laboratorium | Projekt,165,1957,1
+152,Bazy_Danych_0,241,1989,Wyklad | Cwiczenia,40,1962,1
+153,Multimedia_I_Interfejsy_8,312,1991,Wyklad | Laboratorium | Projekt,114,1956,1
+154,Analiza_Matematyczna_4,481,1997,Wyklad | Cwiczenia,255,1983,1
+155,Grafika_Komputerowa_6,22,1956,Wyklad | Cwiczenia,70,1915,1
+156,Programowanie_5,595,1993,Wyklad | Laboratorium | Projekt,19,1991,1
+157,Języki_Programowania_7,949,1969,Wyklad | Laboratorium,196,1932,1
+158,Analiza_Matematyczna_3,678,1999,Wyklad | Cwiczenia,171,1999,1
+159,Języki_Programowania_4,32,1986,Wyklad | Laboratorium | Projekt,55,1979,1
+160,Programowanie_4,604,1953,Wyklad | Laboratorium | Projekt,10,1929,1
+161,Programowanie_7,125,1975,Wyklad | Laboratorium | Projekt,281,1966,1
+162,Bazy_Danych_6,222,1991,Wyklad | Cwiczenia,150,1901,1
+163,Grafika_Komputerowa_0,984,1999,Wyklad | Laboratorium,34,1999,1
+164,Bazy_Danych_2,147,1909,Wyklad | Laboratorium | Projekt,122,1902,1
+165,Hurtownie_Danych_9,610,1971,Wyklad | Laboratorium | Projekt,58,1900,1
+166,Języki_Programowania_0,43,1953,Wyklad | Laboratorium | Projekt,181,1933,1
+167,Matematyka_Dyskretna_3,321,1971,Wyklad | Laboratorium | Projekt,188,1971,1
+168,Matematyka_Dyskretna_9,375,1987,Wyklad | Cwiczenia,70,1987,1
+169,Analiza_Matematyczna_5,953,1975,Wyklad | Laboratorium | Projekt,68,1901,1
+170,Matematyka_Dyskretna_6,882,1997,Wyklad | Laboratorium | Projekt,140,1996,1
+171,Programowanie_4,62,1996,Wyklad | Laboratorium | Projekt,289,1983,1
+172,Analiza_Algorytmów_4,704,1991,Wyklad | Laboratorium | Projekt,170,1943,1
+173,Programowanie_6,465,1999,Wyklad | Cwiczenia,177,1923,1
+174,Grafika_Komputerowa_5,229,1956,Wyklad | Cwiczenia,245,1946,1
+175,Analiza_Algorytmów_7,724,1947,Wyklad | Laboratorium,64,1913,1
+176,Multimedia_I_Interfejsy_8,468,1988,Wyklad | Laboratorium,77,1956,1
+177,Programowanie_6,556,1992,Wyklad | Laboratorium,226,1986,1
+178,Grafika_Komputerowa_3,284,1960,Wyklad | Laboratorium | Projekt,136,1902,1
+179,Analiza_Matematyczna_4,630,1996,Wyklad | Laboratorium,26,1913,1
+180,Architektura_Komputerowa_8,95,1997,Wyklad | Cwiczenia,27,1987,1
+181,Programowanie_5,129,1966,Wyklad | Laboratorium | Projekt,230,1912,1
+182,Bazy_Danych_7,59,1952,Wyklad | Laboratorium,212,1932,1
+183,Hurtownie_Danych_6,558,1964,Wyklad | Laboratorium | Projekt,139,1919,1
+184,Grafika_Komputerowa_2,146,1996,Wyklad | Laboratorium,158,1968,1
+185,Architektura_Komputerowa_3,242,1998,Wyklad | Cwiczenia,174,1996,1
+186,Matematyka_Dyskretna_8,189,1999,Wyklad | Cwiczenia,90,1998,1
+187,Hurtownie_Danych_4,228,1991,Wyklad | Laboratorium | Projekt,9,1980,1
+188,Hurtownie_Danych_8,57,1907,Wyklad | Cwiczenia,263,1900,1
+189,Multimedia_I_Interfejsy_6,770,1980,Wyklad | Cwiczenia,126,1916,1
+190,Języki_Programowania_4,565,1962,Wyklad | Laboratorium,23,1917,1
+191,Grafika_Komputerowa_4,564,1973,Wyklad | Laboratorium | Projekt,41,1962,1
+192,Architektura_Komputerowa_0,930,1994,Wyklad | Laboratorium,151,1950,1
+193,Programowanie_3,280,1973,Wyklad | Laboratorium | Projekt,176,1910,1
+194,Hurtownie_Danych_8,371,1954,Wyklad | Cwiczenia,204,1929,1
+195,Hurtownie_Danych_4,235,1993,Wyklad | Laboratorium | Projekt,200,1992,1
+196,Hurtownie_Danych_8,222,1997,Wyklad | Laboratorium | Projekt,8,1974,1
+197,Bazy_Danych_1,829,1974,Wyklad | Cwiczenia,11,1960,1
+198,Analiza_Algorytmów_4,625,1986,Wyklad | Laboratorium,40,1927,1
+199,Analiza_Algorytmów_3,402,1980,Wyklad | Laboratorium,132,1945,1
+200,Matematyka_Dyskretna_4,655,1987,Wyklad | Laboratorium | Projekt,153,1948,1
+201,Programowanie_3,925,1968,Wyklad | Laboratorium,151,1913,1
+202,Grafika_Komputerowa_1,816,1992,Wyklad | Laboratorium,110,1991,1
+203,Hurtownie_Danych_2,184,1998,Wyklad | Laboratorium,275,1912,1
+204,Architektura_Komputerowa_2,227,1982,Wyklad | Laboratorium,68,1973,1
+205,Architektura_Komputerowa_9,350,1982,Wyklad | Laboratorium,111,1979,1
+206,Programowanie_7,727,1973,Wyklad | Laboratorium | Projekt,154,1913,1
+207,Języki_Programowania_3,773,1984,Wyklad | Laboratorium,286,1957,1
+208,Analiza_Matematyczna_1,627,1999,Wyklad | Cwiczenia,87,1976,1
+209,Analiza_Matematyczna_4,68,1991,Wyklad | Laboratorium,210,1923,1
+210,Grafika_Komputerowa_4,48,1991,Wyklad | Laboratorium,69,1965,1
+211,Architektura_Komputerowa_4,694,1995,Wyklad | Laboratorium | Projekt,41,1993,1
+212,Multimedia_I_Interfejsy_0,934,1971,Wyklad | Cwiczenia,69,1939,1
+213,Analiza_Matematyczna_9,950,1954,Wyklad | Laboratorium | Projekt,226,1920,1
+214,Bazy_Danych_5,854,1949,Wyklad | Cwiczenia,76,1949,1
+215,Analiza_Algorytmów_9,165,1971,Wyklad | Laboratorium | Projekt,282,1923,1
+216,Bazy_Danych_7,918,1968,Wyklad | Laboratorium,214,1923,1
+217,Analiza_Matematyczna_0,514,1960,Wyklad | Laboratorium | Projekt,258,1904,1
+218,Matematyka_Dyskretna_1,572,1929,Wyklad | Laboratorium,217,1929,1
+219,Multimedia_I_Interfejsy_0,27,1975,Wyklad | Laboratorium,120,1930,1
+220,Analiza_Algorytmów_5,795,1988,Wyklad | Laboratorium,233,1985,1
+221,Bazy_Danych_8,413,1994,Wyklad | Cwiczenia,243,1994,1
+222,Hurtownie_Danych_6,495,1976,Wyklad | Laboratorium,293,1911,1
+223,Grafika_Komputerowa_4,222,1990,Wyklad | Laboratorium | Projekt,266,1963,1
+224,Analiza_Algorytmów_0,789,1987,Wyklad | Laboratorium | Projekt,220,1930,1
+225,Analiza_Algorytmów_7,886,1925,Wyklad | Laboratorium,153,1916,1
+226,Języki_Programowania_2,459,1989,Wyklad | Laboratorium,17,1932,1
+227,Analiza_Algorytmów_2,272,1973,Wyklad | Laboratorium | Projekt,52,1924,1
+228,Grafika_Komputerowa_4,327,1964,Wyklad | Laboratorium,248,1913,1
+229,Grafika_Komputerowa_9,895,1988,Wyklad | Laboratorium,86,1941,1
+230,Analiza_Matematyczna_3,782,1999,Wyklad | Laboratorium,23,1998,1
+231,Języki_Programowania_9,744,1998,Wyklad | Cwiczenia,269,1997,1
+232,Analiza_Algorytmów_4,229,1970,Wyklad | Laboratorium | Projekt,219,1959,1
+233,Języki_Programowania_4,152,1954,Wyklad | Laboratorium,138,1902,1
+234,Analiza_Algorytmów_2,35,1962,Wyklad | Cwiczenia,291,1941,1
+235,Multimedia_I_Interfejsy_0,157,1990,Wyklad | Laboratorium | Projekt,64,1930,1
+236,Języki_Programowania_6,718,1998,Wyklad | Laboratorium,175,1931,1
+237,Analiza_Matematyczna_7,774,1996,Wyklad | Cwiczenia,240,1934,1
+238,Analiza_Matematyczna_3,755,1928,Wyklad | Laboratorium,298,1912,1
+239,Bazy_Danych_5,306,1994,Wyklad | Cwiczenia,132,1989,1
+240,Grafika_Komputerowa_1,621,1980,Wyklad | Cwiczenia,269,1954,1
+241,Analiza_Matematyczna_2,774,1955,Wyklad | Laboratorium,225,1950,1
+242,Matematyka_Dyskretna_4,707,1951,Wyklad | Laboratorium,43,1921,1
+243,Programowanie_7,477,1953,Wyklad | Laboratorium | Projekt,11,1941,1
+244,Architektura_Komputerowa_9,561,1994,Wyklad | Laboratorium | Projekt,233,1938,1
+245,Architektura_Komputerowa_2,108,1983,Wyklad | Cwiczenia,148,1909,1
+246,Bazy_Danych_3,745,1981,Wyklad | Laboratorium | Projekt,208,1929,1
+247,Matematyka_Dyskretna_2,504,1987,Wyklad | Cwiczenia,182,1986,1
+248,Hurtownie_Danych_4,540,1986,Wyklad | Laboratorium,131,1979,1
+249,Analiza_Algorytmów_3,492,1961,Wyklad | Cwiczenia,114,1936,1
+250,Multimedia_I_Interfejsy_8,919,1991,Wyklad | Laboratorium,39,1978,1
+251,Programowanie_9,158,1963,Wyklad | Laboratorium | Projekt,27,1958,1
+252,Analiza_Algorytmów_0,704,1998,Wyklad | Laboratorium | Projekt,167,1994,1
+253,Hurtownie_Danych_7,726,1974,Wyklad | Cwiczenia,211,1924,1
+254,Architektura_Komputerowa_9,885,1974,Wyklad | Laboratorium,9,1936,1
+255,Architektura_Komputerowa_1,824,1995,Wyklad | Laboratorium | Projekt,146,1917,1
+256,Multimedia_I_Interfejsy_8,669,1940,Wyklad | Cwiczenia,245,1929,1
+257,Języki_Programowania_0,719,1936,Wyklad | Laboratorium,72,1921,1
+258,Architektura_Komputerowa_0,221,1986,Wyklad | Laboratorium,22,1981,1
+259,Architektura_Komputerowa_4,936,1914,Wyklad | Cwiczenia,25,1913,1
+260,Architektura_Komputerowa_9,236,1972,Wyklad | Laboratorium | Projekt,159,1961,1
+261,Multimedia_I_Interfejsy_2,948,1991,Wyklad | Cwiczenia,209,1915,1
+262,Bazy_Danych_6,751,1963,Wyklad | Laboratorium,227,1935,1
+263,Programowanie_6,144,1954,Wyklad | Laboratorium,49,1953,1
+264,Analiza_Matematyczna_3,840,1968,Wyklad | Laboratorium,142,1958,1
+265,Bazy_Danych_0,574,1991,Wyklad | Laboratorium | Projekt,73,1987,1
+266,Analiza_Algorytmów_5,465,1978,Wyklad | Cwiczenia,96,1941,1
+267,Matematyka_Dyskretna_5,671,1983,Wyklad | Laboratorium | Projekt,50,1982,1
+268,Analiza_Algorytmów_2,588,1983,Wyklad | Cwiczenia,59,1901,1
+269,Programowanie_2,917,1938,Wyklad | Cwiczenia,173,1917,1
+270,Multimedia_I_Interfejsy_8,120,1938,Wyklad | Laboratorium | Projekt,17,1902,1
+271,Matematyka_Dyskretna_7,848,1997,Wyklad | Laboratorium | Projekt,127,1974,1
+272,Analiza_Algorytmów_2,205,1994,Wyklad | Cwiczenia,50,1992,1
+273,Języki_Programowania_6,530,1973,Wyklad | Laboratorium | Projekt,10,1947,1
+274,Hurtownie_Danych_1,136,1998,Wyklad | Laboratorium | Projekt,250,1993,1
+275,Hurtownie_Danych_6,274,1988,Wyklad | Laboratorium,189,1972,1
+276,Matematyka_Dyskretna_5,765,1977,Wyklad | Cwiczenia,181,1946,1
+277,Języki_Programowania_7,569,1985,Wyklad | Cwiczenia,283,1935,1
+278,Hurtownie_Danych_4,858,1992,Wyklad | Laboratorium,137,1977,1
+279,Architektura_Komputerowa_4,578,1992,Wyklad | Laboratorium | Projekt,218,1912,1
+280,Grafika_Komputerowa_6,525,1947,Wyklad | Laboratorium,203,1904,1
+281,Bazy_Danych_2,695,1986,Wyklad | Laboratorium,54,1976,1
+282,Języki_Programowania_6,798,1947,Wyklad | Laboratorium,204,1930,1
+283,Multimedia_I_Interfejsy_6,269,1975,Wyklad | Cwiczenia,57,1960,1
+284,Analiza_Matematyczna_5,706,1994,Wyklad | Laboratorium,26,1978,1
+285,Matematyka_Dyskretna_1,221,1946,Wyklad | Laboratorium | Projekt,141,1934,1
+286,Matematyka_Dyskretna_8,933,1997,Wyklad | Laboratorium,296,1989,1
+287,Języki_Programowania_0,601,1980,Wyklad | Cwiczenia,52,1911,1
+288,Języki_Programowania_7,592,1993,Wyklad | Laboratorium | Projekt,157,1991,1
+289,Matematyka_Dyskretna_4,713,1989,Wyklad | Laboratorium | Projekt,289,1988,1
+290,Hurtownie_Danych_7,669,1989,Wyklad | Laboratorium,237,1908,1
+291,Analiza_Algorytmów_4,977,1999,Wyklad | Cwiczenia,31,1973,1
+292,Języki_Programowania_3,754,1949,Wyklad | Laboratorium,277,1900,1
+293,Programowanie_4,786,1959,Wyklad | Laboratorium,61,1927,1
+294,Języki_Programowania_3,549,1986,Wyklad | Laboratorium | Projekt,143,1966,1
+295,Analiza_Algorytmów_5,807,1997,Wyklad | Cwiczenia,115,1995,1
+296,Analiza_Algorytmów_2,770,1980,Wyklad | Cwiczenia,167,1943,1
+297,Analiza_Algorytmów_9,289,1953,Wyklad | Laboratorium,168,1953,1
+298,Grafika_Komputerowa_5,317,1975,Wyklad | Laboratorium | Projekt,111,1973,1
+299,Bazy_Danych_6,328,1926,Wyklad | Laboratorium,30,1916,1
+300,Multimedia_I_Interfejsy_0,272,1943,Wyklad | Laboratorium,71,1934,1
+301,Grafika_Komputerowa_6,615,1994,Wyklad | Laboratorium | Projekt,224,1963,1
+302,Hurtownie_Danych_2,410,1987,Wyklad | Laboratorium | Projekt,282,1984,1
+303,Hurtownie_Danych_6,332,1977,Wyklad | Laboratorium | Projekt,26,1927,1
+304,Analiza_Algorytmów_5,665,1991,Wyklad | Laboratorium | Projekt,100,1973,1
+305,Grafika_Komputerowa_8,346,1997,Wyklad | Laboratorium | Projekt,5,1994,1
+306,Grafika_Komputerowa_9,490,1963,Wyklad | Cwiczenia,26,1922,1
+307,Hurtownie_Danych_6,285,1979,Wyklad | Laboratorium | Projekt,174,1971,1
+308,Matematyka_Dyskretna_0,369,1984,Wyklad | Laboratorium,123,1957,1
+309,Matematyka_Dyskretna_5,958,1999,Wyklad | Cwiczenia,167,1971,1
+310,Bazy_Danych_2,105,1958,Wyklad | Laboratorium | Projekt,286,1912,1
+311,Architektura_Komputerowa_9,796,1970,Wyklad | Laboratorium,227,1960,1
+312,Programowanie_4,914,1948,Wyklad | Laboratorium,92,1946,1
+313,Grafika_Komputerowa_5,798,1993,Wyklad | Cwiczenia,55,1973,1
+314,Bazy_Danych_7,61,1999,Wyklad | Laboratorium,177,1999,1
+315,Matematyka_Dyskretna_4,910,1988,Wyklad | Laboratorium,246,1968,1
+316,Grafika_Komputerowa_6,753,1953,Wyklad | Laboratorium | Projekt,225,1919,1
+317,Języki_Programowania_0,58,1968,Wyklad | Laboratorium | Projekt,131,1966,1
+318,Analiza_Matematyczna_4,620,1987,Wyklad | Laboratorium | Projekt,37,1974,1
+319,Architektura_Komputerowa_8,187,1990,Wyklad | Cwiczenia,17,1954,1
+320,Analiza_Matematyczna_3,108,1972,Wyklad | Laboratorium | Projekt,257,1972,1
+321,Hurtownie_Danych_7,956,1929,Wyklad | Laboratorium,60,1906,1
+322,Matematyka_Dyskretna_8,101,1946,Wyklad | Laboratorium | Projekt,121,1938,1
+323,Hurtownie_Danych_2,49,1984,Wyklad | Laboratorium,88,1925,1
+324,Programowanie_2,717,1946,Wyklad | Laboratorium | Projekt,26,1905,1
+325,Języki_Programowania_2,860,1961,Wyklad | Laboratorium | Projekt,139,1936,1
+326,Architektura_Komputerowa_0,977,1992,Wyklad | Laboratorium | Projekt,159,1990,1
+327,Hurtownie_Danych_7,346,1970,Wyklad | Laboratorium,97,1924,1
+328,Programowanie_1,827,1939,Wyklad | Laboratorium | Projekt,74,1916,1
+329,Bazy_Danych_9,551,1930,Wyklad | Laboratorium,232,1907,1
+330,Języki_Programowania_2,84,1988,Wyklad | Laboratorium | Projekt,139,1945,1
+331,Grafika_Komputerowa_6,632,1997,Wyklad | Cwiczenia,115,1980,1
+332,Architektura_Komputerowa_0,242,1956,Wyklad | Laboratorium | Projekt,256,1944,1
+333,Analiza_Algorytmów_7,360,1973,Wyklad | Laboratorium | Projekt,135,1920,1
+334,Hurtownie_Danych_8,994,1991,Wyklad | Laboratorium,57,1965,1
+335,Architektura_Komputerowa_4,93,1997,Wyklad | Cwiczenia,3,1982,1
+336,Multimedia_I_Interfejsy_4,819,1970,Wyklad | Cwiczenia,117,1928,1
+337,Grafika_Komputerowa_2,391,1997,Wyklad | Cwiczenia,82,1996,1
+338,Języki_Programowania_3,206,1980,Wyklad | Laboratorium | Projekt,224,1979,1
+339,Architektura_Komputerowa_8,617,1994,Wyklad | Laboratorium | Projekt,72,1962,1
+340,Architektura_Komputerowa_6,223,1973,Wyklad | Laboratorium,196,1966,1
+341,Analiza_Matematyczna_4,558,1979,Wyklad | Cwiczenia,288,1960,1
+342,Hurtownie_Danych_4,172,1952,Wyklad | Cwiczenia,271,1952,1
+343,Analiza_Matematyczna_7,971,1971,Wyklad | Cwiczenia,4,1940,1
+344,Grafika_Komputerowa_1,285,1991,Wyklad | Laboratorium,63,1973,1
+345,Architektura_Komputerowa_4,634,1975,Wyklad | Cwiczenia,191,1934,1
+346,Architektura_Komputerowa_7,836,1993,Wyklad | Cwiczenia,92,1989,1
+347,Matematyka_Dyskretna_6,542,1974,Wyklad | Cwiczenia,175,1950,1
+348,Matematyka_Dyskretna_6,832,1915,Wyklad | Cwiczenia,166,1900,1
+349,Języki_Programowania_8,59,1929,Wyklad | Laboratorium | Projekt,56,1910,1
+350,Bazy_Danych_1,704,1976,Wyklad | Laboratorium,76,1970,1
+351,Programowanie_6,622,1997,Wyklad | Laboratorium | Projekt,128,1974,1
+352,Hurtownie_Danych_4,299,1995,Wyklad | Laboratorium | Projekt,149,1912,1
+353,Bazy_Danych_1,696,1981,Wyklad | Laboratorium,9,1930,1
+354,Grafika_Komputerowa_5,92,1994,Wyklad | Laboratorium,11,1983,1
+355,Języki_Programowania_7,709,1973,Wyklad | Laboratorium,285,1925,1
+356,Analiza_Matematyczna_7,994,1994,Wyklad | Laboratorium | Projekt,49,1988,1
+357,Architektura_Komputerowa_6,282,1946,Wyklad | Laboratorium | Projekt,117,1943,1
+358,Multimedia_I_Interfejsy_9,616,1984,Wyklad | Cwiczenia,223,1952,1
+359,Programowanie_1,776,1993,Wyklad | Laboratorium,120,1928,1
+360,Analiza_Matematyczna_4,351,1941,Wyklad | Laboratorium,283,1939,1
+361,Analiza_Matematyczna_8,770,1992,Wyklad | Cwiczenia,75,1989,1
+362,Programowanie_3,535,1952,Wyklad | Laboratorium | Projekt,89,1922,1
+363,Bazy_Danych_9,995,1999,Wyklad | Laboratorium | Projekt,215,1962,1
+364,Hurtownie_Danych_3,996,1984,Wyklad | Laboratorium | Projekt,38,1979,1
+365,Matematyka_Dyskretna_1,299,1978,Wyklad | Laboratorium,120,1949,1
+366,Grafika_Komputerowa_1,27,1994,Wyklad | Cwiczenia,102,1994,1
+367,Analiza_Matematyczna_8,876,1995,Wyklad | Laboratorium,290,1961,1
+368,Grafika_Komputerowa_3,15,1928,Wyklad | Cwiczenia,210,1907,1
+369,Bazy_Danych_2,988,1990,Wyklad | Cwiczenia,145,1983,1
+370,Matematyka_Dyskretna_6,0,1975,Wyklad | Laboratorium,199,1954,1
+371,Matematyka_Dyskretna_5,286,1991,Wyklad | Cwiczenia,259,1969,1
+372,Języki_Programowania_7,211,1992,Wyklad | Cwiczenia,216,1965,1
+373,Analiza_Algorytmów_7,304,1988,Wyklad | Laboratorium | Projekt,178,1962,1
+374,Języki_Programowania_7,534,1982,Wyklad | Laboratorium,141,1961,1
+375,Hurtownie_Danych_9,325,1991,Wyklad | Laboratorium,166,1982,1
+376,Języki_Programowania_8,742,1998,Wyklad | Cwiczenia,51,1997,1
+377,Architektura_Komputerowa_9,191,1939,Wyklad | Laboratorium,39,1927,1
+378,Multimedia_I_Interfejsy_2,539,1968,Wyklad | Laboratorium | Projekt,172,1960,1
+379,Bazy_Danych_3,529,1972,Wyklad | Laboratorium,60,1910,1
+380,Matematyka_Dyskretna_0,958,1998,Wyklad | Laboratorium | Projekt,99,1998,1
+381,Matematyka_Dyskretna_4,700,1968,Wyklad | Laboratorium | Projekt,77,1966,1
+382,Programowanie_8,728,1997,Wyklad | Laboratorium | Projekt,190,1993,1
+383,Grafika_Komputerowa_7,354,1952,Wyklad | Laboratorium,298,1919,1
+384,Hurtownie_Danych_0,780,1994,Wyklad | Laboratorium,241,1936,1
+385,Grafika_Komputerowa_6,333,1940,Wyklad | Laboratorium,288,1904,1
+386,Grafika_Komputerowa_1,500,1939,Wyklad | Laboratorium,189,1914,1
+387,Programowanie_8,427,1978,Wyklad | Laboratorium | Projekt,125,1969,1
+388,Hurtownie_Danych_8,485,1999,Wyklad | Laboratorium | Projekt,276,1956,1
+389,Bazy_Danych_6,814,1992,Wyklad | Laboratorium,189,1931,1
+390,Bazy_Danych_4,826,1999,Wyklad | Laboratorium | Projekt,280,1999,1
+391,Języki_Programowania_7,522,1969,Wyklad | Cwiczenia,131,1910,1
+392,Hurtownie_Danych_2,214,1988,Wyklad | Laboratorium | Projekt,178,1947,1
+393,Multimedia_I_Interfejsy_6,512,1999,Wyklad | Cwiczenia,238,1999,1
+394,Języki_Programowania_1,725,1996,Wyklad | Cwiczenia,151,1996,1
+395,Bazy_Danych_0,736,1990,Wyklad | Cwiczenia,222,1949,1
+396,Grafika_Komputerowa_6,69,1949,Wyklad | Laboratorium,265,1917,1
+397,Multimedia_I_Interfejsy_7,237,1991,Wyklad | Cwiczenia,217,1920,1
+398,Multimedia_I_Interfejsy_7,436,1986,Wyklad | Cwiczenia,206,1959,1
+399,Multimedia_I_Interfejsy_7,832,1959,Wyklad | Laboratorium | Projekt,180,1937,1
+400,Multimedia_I_Interfejsy_5,132,1985,Wyklad | Laboratorium,119,1941,1
+401,Hurtownie_Danych_2,618,1991,Wyklad | Laboratorium,267,1986,1
+402,Języki_Programowania_3,871,1968,Wyklad | Cwiczenia,128,1963,1
+403,Bazy_Danych_1,208,1997,Wyklad | Cwiczenia,124,1920,1
+404,Matematyka_Dyskretna_9,248,1989,Wyklad | Laboratorium | Projekt,59,1978,1
+405,Grafika_Komputerowa_4,790,1995,Wyklad | Cwiczenia,89,1981,1
+406,Grafika_Komputerowa_7,442,1949,Wyklad | Laboratorium,267,1944,1
+407,Programowanie_8,483,1989,Wyklad | Laboratorium | Projekt,157,1903,1
+408,Analiza_Algorytmów_0,924,1990,Wyklad | Cwiczenia,198,1951,1
+409,Multimedia_I_Interfejsy_6,611,1969,Wyklad | Cwiczenia,108,1953,1
+410,Programowanie_0,862,1998,Wyklad | Laboratorium,106,1995,1
+411,Matematyka_Dyskretna_6,143,1952,Wyklad | Laboratorium | Projekt,192,1923,1
+412,Programowanie_4,180,1972,Wyklad | Cwiczenia,201,1927,1
+413,Multimedia_I_Interfejsy_3,114,1985,Wyklad | Cwiczenia,200,1972,1
+414,Programowanie_8,15,1998,Wyklad | Laboratorium | Projekt,177,1973,1
+415,Języki_Programowania_4,236,1930,Wyklad | Laboratorium,126,1924,1
+416,Architektura_Komputerowa_8,698,1963,Wyklad | Laboratorium,177,1946,1
+417,Języki_Programowania_1,427,1963,Wyklad | Cwiczenia,17,1940,1
+418,Analiza_Algorytmów_1,467,1992,Wyklad | Laboratorium,17,1992,1
+419,Analiza_Matematyczna_2,574,1973,Wyklad | Cwiczenia,178,1949,1
+420,Bazy_Danych_7,119,1988,Wyklad | Laboratorium | Projekt,121,1951,1
+421,Języki_Programowania_8,879,1993,Wyklad | Laboratorium,162,1992,1
+422,Analiza_Algorytmów_5,752,1994,Wyklad | Cwiczenia,201,1992,1
+423,Grafika_Komputerowa_2,413,1986,Wyklad | Laboratorium,67,1968,1
+424,Architektura_Komputerowa_1,818,1997,Wyklad | Laboratorium | Projekt,82,1996,1
+425,Architektura_Komputerowa_8,499,1967,Wyklad | Laboratorium,162,1934,1
+426,Hurtownie_Danych_4,989,1988,Wyklad | Laboratorium | Projekt,92,1910,1
+427,Matematyka_Dyskretna_2,79,1993,Wyklad | Laboratorium,229,1938,1
+428,Multimedia_I_Interfejsy_7,22,1903,Wyklad | Cwiczenia,236,1903,1
+429,Analiza_Algorytmów_3,635,1991,Wyklad | Laboratorium,104,1984,1
+430,Bazy_Danych_9,938,1994,Wyklad | Cwiczenia,84,1991,1
+431,Multimedia_I_Interfejsy_3,516,1974,Wyklad | Cwiczenia,153,1906,1
+432,Multimedia_I_Interfejsy_6,581,1932,Wyklad | Laboratorium | Projekt,155,1906,1
+433,Multimedia_I_Interfejsy_4,916,1998,Wyklad | Cwiczenia,182,1994,1
+434,Analiza_Algorytmów_4,100,1998,Wyklad | Cwiczenia,121,1980,1
+435,Matematyka_Dyskretna_9,212,1979,Wyklad | Laboratorium,127,1978,1
+436,Bazy_Danych_2,281,1997,Wyklad | Laboratorium,180,1997,1
+437,Programowanie_3,267,1999,Wyklad | Cwiczenia,53,1998,1
+438,Hurtownie_Danych_7,929,1993,Wyklad | Laboratorium,22,1909,1
+439,Multimedia_I_Interfejsy_0,478,1930,Wyklad | Laboratorium | Projekt,76,1907,1
+440,Matematyka_Dyskretna_8,0,1978,Wyklad | Cwiczenia,42,1977,1
+441,Analiza_Matematyczna_0,198,1967,Wyklad | Cwiczenia,36,1966,1
+442,Multimedia_I_Interfejsy_7,783,1973,Wyklad | Laboratorium,40,1970,1
+443,Języki_Programowania_4,560,1943,Wyklad | Laboratorium | Projekt,40,1934,1
+444,Hurtownie_Danych_2,576,1999,Wyklad | Laboratorium | Projekt,96,1964,1
+445,Architektura_Komputerowa_3,89,1932,Wyklad | Laboratorium,50,1922,1
+446,Bazy_Danych_9,669,1950,Wyklad | Laboratorium,204,1939,1
+447,Analiza_Matematyczna_8,526,1970,Wyklad | Cwiczenia,141,1942,1
+448,Języki_Programowania_0,727,1999,Wyklad | Laboratorium | Projekt,200,1963,1
+449,Architektura_Komputerowa_8,691,1952,Wyklad | Laboratorium | Projekt,148,1939,1
+450,Matematyka_Dyskretna_3,411,1937,Wyklad | Cwiczenia,167,1937,1
+451,Matematyka_Dyskretna_8,429,1939,Wyklad | Cwiczenia,260,1900,1
+452,Bazy_Danych_2,857,1987,Wyklad | Cwiczenia,221,1980,1
+453,Hurtownie_Danych_6,556,1983,Wyklad | Cwiczenia,127,1962,1
+454,Bazy_Danych_7,319,1981,Wyklad | Cwiczenia,251,1958,1
+455,Analiza_Matematyczna_2,685,1989,Wyklad | Laboratorium | Projekt,55,1980,1
+456,Analiza_Matematyczna_1,101,1993,Wyklad | Cwiczenia,224,1922,1
+457,Języki_Programowania_2,610,1988,Wyklad | Cwiczenia,217,1981,1
+458,Języki_Programowania_7,942,1974,Wyklad | Cwiczenia,161,1969,1
+459,Analiza_Algorytmów_2,155,1993,Wyklad | Laboratorium,8,1989,1
+460,Języki_Programowania_2,450,1966,Wyklad | Cwiczenia,173,1949,1
+461,Matematyka_Dyskretna_4,611,1946,Wyklad | Cwiczenia,183,1934,1
+462,Hurtownie_Danych_9,28,1976,Wyklad | Cwiczenia,280,1926,1
+463,Architektura_Komputerowa_0,892,1965,Wyklad | Laboratorium,280,1916,1
+464,Multimedia_I_Interfejsy_7,305,1994,Wyklad | Cwiczenia,236,1934,1
+465,Hurtownie_Danych_5,677,1957,Wyklad | Laboratorium | Projekt,191,1957,1
+466,Bazy_Danych_1,248,1940,Wyklad | Laboratorium,144,1934,1
+467,Analiza_Matematyczna_2,29,1984,Wyklad | Laboratorium | Projekt,299,1945,1
+468,Hurtownie_Danych_4,286,1953,Wyklad | Laboratorium | Projekt,61,1910,1
+469,Analiza_Matematyczna_6,640,1984,Wyklad | Cwiczenia,19,1940,1
+470,Analiza_Matematyczna_4,813,1990,Wyklad | Cwiczenia,164,1975,1
+471,Multimedia_I_Interfejsy_1,750,1994,Wyklad | Laboratorium | Projekt,11,1950,1
+472,Analiza_Matematyczna_7,667,1978,Wyklad | Cwiczenia,296,1973,1
+473,Matematyka_Dyskretna_7,405,1988,Wyklad | Cwiczenia,29,1925,1
+474,Hurtownie_Danych_6,557,1937,Wyklad | Laboratorium,121,1918,1
+475,Architektura_Komputerowa_5,864,1952,Wyklad | Cwiczenia,143,1923,1
+476,Matematyka_Dyskretna_0,256,1985,Wyklad | Laboratorium,164,1985,1
+477,Analiza_Matematyczna_1,70,1960,Wyklad | Laboratorium,67,1947,1
+478,Analiza_Algorytmów_3,575,1953,Wyklad | Cwiczenia,128,1934,1
+479,Analiza_Matematyczna_0,892,1971,Wyklad | Laboratorium,26,1914,1
+480,Architektura_Komputerowa_4,76,1993,Wyklad | Laboratorium | Projekt,64,1992,1
+481,Grafika_Komputerowa_6,997,1969,Wyklad | Laboratorium | Projekt,234,1968,1
+482,Programowanie_6,36,1958,Wyklad | Laboratorium | Projekt,221,1956,1
+483,Multimedia_I_Interfejsy_0,179,1950,Wyklad | Cwiczenia,156,1923,1
+484,Hurtownie_Danych_2,693,1976,Wyklad | Laboratorium,263,1915,1
+485,Architektura_Komputerowa_8,578,1998,Wyklad | Laboratorium | Projekt,190,1990,1
+486,Analiza_Matematyczna_7,232,1988,Wyklad | Cwiczenia,225,1970,1
+487,Analiza_Matematyczna_7,980,1989,Wyklad | Laboratorium | Projekt,48,1979,1
+488,Matematyka_Dyskretna_7,524,1956,Wyklad | Laboratorium,300,1913,1
+489,Architektura_Komputerowa_9,880,1996,Wyklad | Laboratorium,113,1992,1
+490,Analiza_Matematyczna_0,483,1963,Wyklad | Laboratorium | Projekt,144,1900,1
+491,Matematyka_Dyskretna_7,998,1975,Wyklad | Laboratorium,102,1934,1
+492,Analiza_Matematyczna_2,979,1977,Wyklad | Cwiczenia,246,1963,1
+493,Analiza_Algorytmów_2,935,1953,Wyklad | Laboratorium | Projekt,101,1944,1
+494,Architektura_Komputerowa_6,980,1954,Wyklad | Laboratorium | Projekt,135,1941,1
+495,Hurtownie_Danych_4,329,1975,Wyklad | Laboratorium | Projekt,90,1930,1
+496,Hurtownie_Danych_8,776,1973,Wyklad | Laboratorium | Projekt,44,1965,1
+497,Bazy_Danych_5,849,1938,Wyklad | Laboratorium | Projekt,162,1922,1
+498,Architektura_Komputerowa_1,157,1940,Wyklad | Cwiczenia,137,1915,1
+499,Multimedia_I_Interfejsy_7,296,1985,Wyklad | Cwiczenia,217,1959,1
+500,Programowanie_3,272,1963,Wyklad | Laboratorium,100,1941,1
+501,Programowanie_4,471,1978,Wyklad | Laboratorium | Projekt,217,1944,1
+502,Bazy_Danych_2,689,1981,Wyklad | Laboratorium | Projekt,223,1935,1
+503,Matematyka_Dyskretna_6,145,1934,Wyklad | Laboratorium | Projekt,80,1907,1
+504,Analiza_Algorytmów_9,159,1981,Wyklad | Laboratorium | Projekt,8,1981,1
+505,Grafika_Komputerowa_6,847,1937,Wyklad | Laboratorium,157,1907,1
+506,Hurtownie_Danych_8,721,1998,Wyklad | Laboratorium,281,1995,1
+507,Multimedia_I_Interfejsy_8,47,1980,Wyklad | Laboratorium,14,1974,1
+508,Hurtownie_Danych_5,361,1947,Wyklad | Laboratorium,273,1935,1
+509,Architektura_Komputerowa_5,159,1995,Wyklad | Cwiczenia,7,1960,1
+510,Bazy_Danych_9,401,1978,Wyklad | Laboratorium,135,1940,1
+511,Bazy_Danych_8,405,1968,Wyklad | Laboratorium | Projekt,122,1933,1
+512,Języki_Programowania_9,484,1923,Wyklad | Cwiczenia,187,1915,1
+513,Bazy_Danych_4,373,1991,Wyklad | Cwiczenia,89,1951,1
+514,Języki_Programowania_9,323,1973,Wyklad | Laboratorium | Projekt,109,1949,1
+515,Analiza_Matematyczna_2,913,1994,Wyklad | Laboratorium,298,1958,1
+516,Analiza_Algorytmów_0,651,1968,Wyklad | Laboratorium | Projekt,25,1929,1
+517,Hurtownie_Danych_0,336,1993,Wyklad | Laboratorium | Projekt,274,1971,1
+518,Analiza_Matematyczna_0,976,1977,Wyklad | Laboratorium,147,1908,1
+519,Architektura_Komputerowa_8,349,1943,Wyklad | Laboratorium | Projekt,189,1917,1
+520,Architektura_Komputerowa_1,88,1934,Wyklad | Laboratorium,210,1901,1
+521,Hurtownie_Danych_4,501,1982,Wyklad | Cwiczenia,149,1948,1
+522,Bazy_Danych_4,789,1970,Wyklad | Laboratorium,147,1956,1
+523,Analiza_Matematyczna_0,555,1993,Wyklad | Laboratorium,96,1977,1
+524,Języki_Programowania_3,267,1977,Wyklad | Laboratorium,184,1922,1
+525,Programowanie_0,41,1944,Wyklad | Laboratorium,22,1929,1
+526,Grafika_Komputerowa_3,854,1989,Wyklad | Laboratorium,280,1956,1
+527,Analiza_Algorytmów_3,600,1985,Wyklad | Laboratorium | Projekt,270,1974,1
+528,Analiza_Matematyczna_9,0,1998,Wyklad | Cwiczenia,68,1995,1
+529,Multimedia_I_Interfejsy_4,536,1987,Wyklad | Laboratorium,296,1962,1
+530,Bazy_Danych_1,951,1991,Wyklad | Laboratorium,246,1967,1
+531,Analiza_Algorytmów_3,560,1930,Wyklad | Cwiczenia,296,1925,1
+532,Matematyka_Dyskretna_9,279,1970,Wyklad | Laboratorium | Projekt,214,1910,1
+533,Hurtownie_Danych_3,979,1996,Wyklad | Laboratorium,60,1992,1
+534,Hurtownie_Danych_2,934,1974,Wyklad | Laboratorium | Projekt,50,1920,1
+535,Multimedia_I_Interfejsy_3,913,1998,Wyklad | Laboratorium | Projekt,84,1976,1
+536,Programowanie_8,237,1942,Wyklad | Laboratorium,162,1927,1
+537,Matematyka_Dyskretna_9,295,1963,Wyklad | Cwiczenia,158,1926,1
+538,Grafika_Komputerowa_0,96,1989,Wyklad | Laboratorium,61,1980,1
+539,Programowanie_8,3,1976,Wyklad | Cwiczenia,141,1975,1
+540,Hurtownie_Danych_1,65,1988,Wyklad | Laboratorium,106,1952,1
+541,Matematyka_Dyskretna_7,113,1946,Wyklad | Laboratorium | Projekt,75,1916,1
+542,Matematyka_Dyskretna_6,594,1924,Wyklad | Laboratorium | Projekt,172,1909,1
+543,Grafika_Komputerowa_1,543,1983,Wyklad | Cwiczenia,129,1982,1
+544,Bazy_Danych_8,220,1938,Wyklad | Cwiczenia,158,1934,1
+545,Architektura_Komputerowa_2,1,1988,Wyklad | Laboratorium,230,1945,1
+546,Matematyka_Dyskretna_4,538,1998,Wyklad | Cwiczenia,239,1941,1
+547,Architektura_Komputerowa_1,632,1983,Wyklad | Cwiczenia,185,1981,1
+548,Bazy_Danych_0,787,1994,Wyklad | Cwiczenia,133,1956,1
+549,Języki_Programowania_5,875,1978,Wyklad | Laboratorium | Projekt,15,1910,1
+550,Grafika_Komputerowa_0,823,1967,Wyklad | Laboratorium | Projekt,297,1955,1
+551,Multimedia_I_Interfejsy_2,245,1920,Wyklad | Cwiczenia,11,1902,1
+552,Architektura_Komputerowa_1,317,1972,Wyklad | Laboratorium,154,1970,1
+553,Bazy_Danych_7,818,1993,Wyklad | Cwiczenia,96,1988,1
+554,Grafika_Komputerowa_6,320,1985,Wyklad | Laboratorium,182,1945,1
+555,Programowanie_8,674,1995,Wyklad | Laboratorium,45,1990,1
+556,Architektura_Komputerowa_7,1,1954,Wyklad | Laboratorium | Projekt,63,1932,1
+557,Matematyka_Dyskretna_8,11,1995,Wyklad | Laboratorium,122,1986,1
+558,Grafika_Komputerowa_0,487,1999,Wyklad | Laboratorium,143,1994,1
+559,Grafika_Komputerowa_8,888,1963,Wyklad | Laboratorium | Projekt,297,1950,1
+560,Bazy_Danych_9,512,1996,Wyklad | Cwiczenia,32,1964,1
+561,Analiza_Matematyczna_2,2,1986,Wyklad | Cwiczenia,155,1980,1
+562,Analiza_Matematyczna_1,36,1997,Wyklad | Laboratorium,37,1926,1
+563,Analiza_Algorytmów_1,271,1975,Wyklad | Laboratorium,293,1954,1
+564,Hurtownie_Danych_7,377,1992,Wyklad | Laboratorium,11,1969,1
+565,Bazy_Danych_6,39,1983,Wyklad | Laboratorium,77,1946,1
+566,Programowanie_0,707,1963,Wyklad | Laboratorium | Projekt,94,1903,1
+567,Analiza_Algorytmów_1,713,1945,Wyklad | Laboratorium | Projekt,254,1939,1
+568,Architektura_Komputerowa_1,196,1996,Wyklad | Laboratorium,213,1985,1
+569,Analiza_Matematyczna_5,671,1990,Wyklad | Cwiczenia,235,1985,1
+570,Analiza_Algorytmów_0,780,1984,Wyklad | Cwiczenia,80,1978,1
+571,Bazy_Danych_2,535,1990,Wyklad | Cwiczenia,187,1981,1
+572,Grafika_Komputerowa_6,570,1945,Wyklad | Laboratorium | Projekt,105,1945,1
+573,Multimedia_I_Interfejsy_9,346,1926,Wyklad | Cwiczenia,21,1915,1
+574,Bazy_Danych_3,384,1922,Wyklad | Laboratorium | Projekt,183,1906,1
+575,Matematyka_Dyskretna_4,192,1969,Wyklad | Laboratorium | Projekt,266,1924,1
+576,Języki_Programowania_9,87,1924,Wyklad | Laboratorium,137,1900,1
+577,Analiza_Algorytmów_2,220,1944,Wyklad | Laboratorium,238,1933,1
+578,Multimedia_I_Interfejsy_6,226,1924,Wyklad | Laboratorium | Projekt,25,1912,1
+579,Matematyka_Dyskretna_7,238,1936,Wyklad | Laboratorium,61,1936,1
+580,Grafika_Komputerowa_8,187,1959,Wyklad | Laboratorium,37,1933,1
+581,Matematyka_Dyskretna_1,900,1959,Wyklad | Cwiczenia,233,1953,1
+582,Analiza_Algorytmów_4,821,1925,Wyklad | Laboratorium | Projekt,92,1908,1
+583,Matematyka_Dyskretna_1,528,1962,Wyklad | Cwiczenia,206,1957,1
+584,Architektura_Komputerowa_8,274,1996,Wyklad | Laboratorium,207,1988,1
+585,Architektura_Komputerowa_4,337,1999,Wyklad | Laboratorium | Projekt,224,1980,1
+586,Bazy_Danych_3,816,1935,Wyklad | Laboratorium,208,1934,1
+587,Programowanie_1,111,1961,Wyklad | Cwiczenia,218,1912,1
+588,Bazy_Danych_9,899,1954,Wyklad | Laboratorium,250,1935,1
+589,Architektura_Komputerowa_3,587,1987,Wyklad | Cwiczenia,97,1922,1
+590,Grafika_Komputerowa_4,499,1981,Wyklad | Laboratorium,184,1956,1
+591,Analiza_Algorytmów_3,781,1965,Wyklad | Cwiczenia,71,1919,1
+592,Programowanie_4,379,1999,Wyklad | Laboratorium,164,1996,1
+593,Analiza_Matematyczna_7,661,1993,Wyklad | Laboratorium | Projekt,5,1904,1
+594,Grafika_Komputerowa_6,97,1967,Wyklad | Laboratorium,250,1951,1
+595,Analiza_Matematyczna_0,786,1961,Wyklad | Laboratorium,136,1960,1
+596,Architektura_Komputerowa_8,670,1976,Wyklad | Laboratorium,278,1970,1
+597,Multimedia_I_Interfejsy_4,181,1988,Wyklad | Laboratorium,178,1978,1
+598,Języki_Programowania_7,950,1941,Wyklad | Laboratorium,130,1931,1
+599,Matematyka_Dyskretna_8,610,1999,Wyklad | Laboratorium | Projekt,107,1997,1
+600,Multimedia_I_Interfejsy_0,859,1957,Wyklad | Laboratorium,219,1913,1
+601,Matematyka_Dyskretna_1,60,1995,Wyklad | Laboratorium | Projekt,120,1985,1
+602,Programowanie_1,158,1999,Wyklad | Laboratorium,103,1984,1
+603,Grafika_Komputerowa_5,353,1953,Wyklad | Cwiczenia,220,1953,1
+604,Architektura_Komputerowa_7,113,1976,Wyklad | Laboratorium | Projekt,60,1955,1
+605,Architektura_Komputerowa_3,928,1985,Wyklad | Laboratorium | Projekt,251,1905,1
+606,Multimedia_I_Interfejsy_6,780,1986,Wyklad | Cwiczenia,273,1967,1
+607,Bazy_Danych_6,640,1971,Wyklad | Cwiczenia,114,1914,1
+608,Bazy_Danych_4,417,1917,Wyklad | Cwiczenia,51,1908,1
+609,Grafika_Komputerowa_8,527,1949,Wyklad | Laboratorium | Projekt,228,1923,1
+610,Programowanie_1,214,1923,Wyklad | Laboratorium,265,1901,1
+611,Matematyka_Dyskretna_5,540,1997,Wyklad | Laboratorium | Projekt,112,1938,1
+612,Hurtownie_Danych_9,969,1993,Wyklad | Laboratorium | Projekt,171,1928,1
+613,Multimedia_I_Interfejsy_3,769,1974,Wyklad | Laboratorium | Projekt,96,1967,1
+614,Matematyka_Dyskretna_2,801,1973,Wyklad | Laboratorium,103,1966,1
+615,Bazy_Danych_5,467,1984,Wyklad | Laboratorium | Projekt,21,1964,1
+616,Analiza_Matematyczna_8,547,1964,Wyklad | Laboratorium | Projekt,11,1935,1
+617,Grafika_Komputerowa_9,717,1973,Wyklad | Laboratorium,232,1957,1
+618,Bazy_Danych_5,301,1990,Wyklad | Laboratorium | Projekt,93,1944,1
+619,Języki_Programowania_2,525,1960,Wyklad | Cwiczenia,154,1956,1
+620,Analiza_Matematyczna_3,714,1998,Wyklad | Laboratorium | Projekt,31,1933,1
+621,Programowanie_3,170,1953,Wyklad | Cwiczenia,91,1953,1
+622,Języki_Programowania_9,291,1996,Wyklad | Laboratorium,152,1949,1
+623,Języki_Programowania_5,273,1960,Wyklad | Laboratorium | Projekt,283,1929,1
+624,Architektura_Komputerowa_6,201,1999,Wyklad | Laboratorium | Projekt,227,1999,1
+625,Matematyka_Dyskretna_3,91,1957,Wyklad | Laboratorium | Projekt,209,1926,1
+626,Programowanie_9,101,1971,Wyklad | Cwiczenia,235,1926,1
+627,Języki_Programowania_3,369,1997,Wyklad | Laboratorium | Projekt,128,1993,1
+628,Programowanie_4,291,1959,Wyklad | Laboratorium | Projekt,229,1934,1
+629,Multimedia_I_Interfejsy_9,593,1966,Wyklad | Cwiczenia,289,1939,1
+630,Grafika_Komputerowa_4,382,1982,Wyklad | Laboratorium,230,1925,1
+631,Analiza_Matematyczna_2,73,1987,Wyklad | Cwiczenia,190,1973,1
+632,Programowanie_9,585,1967,Wyklad | Cwiczenia,138,1918,1
+633,Matematyka_Dyskretna_7,697,1993,Wyklad | Laboratorium,148,1984,1
+634,Hurtownie_Danych_8,888,1970,Wyklad | Laboratorium,236,1951,1
+635,Języki_Programowania_0,71,1997,Wyklad | Laboratorium,18,1987,1
+636,Architektura_Komputerowa_1,959,1935,Wyklad | Cwiczenia,15,1917,1
+637,Programowanie_8,587,1984,Wyklad | Laboratorium,279,1943,1
+638,Hurtownie_Danych_4,576,1983,Wyklad | Laboratorium | Projekt,105,1967,1
+639,Grafika_Komputerowa_0,586,1989,Wyklad | Laboratorium,276,1957,1
+640,Analiza_Matematyczna_6,75,1975,Wyklad | Laboratorium | Projekt,102,1908,1
+641,Matematyka_Dyskretna_4,574,1987,Wyklad | Laboratorium,75,1956,1
+642,Grafika_Komputerowa_0,610,1972,Wyklad | Laboratorium,135,1937,1
+643,Matematyka_Dyskretna_4,258,1907,Wyklad | Cwiczenia,23,1904,1
+644,Architektura_Komputerowa_7,282,1989,Wyklad | Cwiczenia,187,1978,1
+645,Analiza_Algorytmów_6,498,1973,Wyklad | Cwiczenia,256,1953,1
+646,Multimedia_I_Interfejsy_9,375,1985,Wyklad | Laboratorium | Projekt,298,1970,1
+647,Języki_Programowania_9,735,1979,Wyklad | Laboratorium,261,1953,1
+648,Architektura_Komputerowa_4,259,1997,Wyklad | Cwiczenia,144,1976,1
+649,Hurtownie_Danych_6,774,1967,Wyklad | Laboratorium | Projekt,288,1942,1
+650,Matematyka_Dyskretna_6,78,1998,Wyklad | Laboratorium,253,1958,1
+651,Analiza_Algorytmów_2,488,1988,Wyklad | Laboratorium | Projekt,98,1970,1
+652,Matematyka_Dyskretna_4,229,1975,Wyklad | Cwiczenia,44,1932,1
+653,Programowanie_9,811,1940,Wyklad | Laboratorium | Projekt,28,1911,1
+654,Bazy_Danych_2,46,1990,Wyklad | Cwiczenia,294,1986,1
+655,Architektura_Komputerowa_8,763,1936,Wyklad | Cwiczenia,249,1911,1
+656,Grafika_Komputerowa_6,106,1997,Wyklad | Laboratorium | Projekt,54,1962,1
+657,Bazy_Danych_4,20,1999,Wyklad | Laboratorium | Projekt,194,1967,1
+658,Analiza_Matematyczna_4,299,1950,Wyklad | Laboratorium,58,1924,1
+659,Języki_Programowania_8,189,1930,Wyklad | Laboratorium,49,1906,1
+660,Programowanie_3,404,1943,Wyklad | Laboratorium,62,1907,1
+661,Multimedia_I_Interfejsy_9,119,1929,Wyklad | Laboratorium | Projekt,220,1921,1
+662,Analiza_Matematyczna_7,508,1985,Wyklad | Laboratorium,27,1949,1
+663,Multimedia_I_Interfejsy_6,978,1996,Wyklad | Laboratorium | Projekt,201,1977,1
+664,Analiza_Algorytmów_7,260,1992,Wyklad | Laboratorium | Projekt,135,1988,1
+665,Multimedia_I_Interfejsy_2,979,1993,Wyklad | Laboratorium,253,1941,1
+666,Grafika_Komputerowa_7,919,1996,Wyklad | Laboratorium,169,1987,1
+667,Multimedia_I_Interfejsy_2,210,1954,Wyklad | Cwiczenia,262,1951,1
+668,Bazy_Danych_4,407,1951,Wyklad | Laboratorium | Projekt,172,1902,1
+669,Hurtownie_Danych_6,703,1996,Wyklad | Cwiczenia,275,1996,1
+670,Multimedia_I_Interfejsy_0,344,1996,Wyklad | Cwiczenia,7,1926,1
+671,Grafika_Komputerowa_4,134,1985,Wyklad | Laboratorium,213,1981,1
+672,Matematyka_Dyskretna_3,455,1973,Wyklad | Cwiczenia,256,1963,1
+673,Multimedia_I_Interfejsy_1,169,1999,Wyklad | Laboratorium | Projekt,29,1999,1
+674,Analiza_Algorytmów_6,803,1976,Wyklad | Laboratorium,285,1939,1
+675,Analiza_Matematyczna_5,12,1978,Wyklad | Cwiczenia,65,1958,1
+676,Bazy_Danych_0,307,1989,Wyklad | Laboratorium,195,1977,1
+677,Analiza_Matematyczna_4,757,1993,Wyklad | Cwiczenia,245,1965,1
+678,Architektura_Komputerowa_2,935,1962,Wyklad | Cwiczenia,42,1935,1
+679,Języki_Programowania_5,413,1988,Wyklad | Laboratorium | Projekt,121,1909,1
+680,Bazy_Danych_5,63,1998,Wyklad | Cwiczenia,55,1989,1
+681,Hurtownie_Danych_0,481,1943,Wyklad | Laboratorium | Projekt,88,1923,1
+682,Architektura_Komputerowa_4,731,1991,Wyklad | Laboratorium | Projekt,248,1980,1
+683,Architektura_Komputerowa_8,473,1981,Wyklad | Laboratorium,206,1906,1
+684,Multimedia_I_Interfejsy_6,254,1995,Wyklad | Laboratorium | Projekt,146,1971,1
+685,Analiza_Algorytmów_5,224,1939,Wyklad | Cwiczenia,184,1937,1
+686,Architektura_Komputerowa_6,726,1956,Wyklad | Cwiczenia,119,1955,1
+687,Multimedia_I_Interfejsy_8,58,1965,Wyklad | Laboratorium,11,1919,1
+688,Matematyka_Dyskretna_0,755,1919,Wyklad | Laboratorium | Projekt,117,1919,1
+689,Grafika_Komputerowa_2,334,1974,Wyklad | Cwiczenia,90,1974,1
+690,Analiza_Algorytmów_8,219,1971,Wyklad | Laboratorium | Projekt,58,1913,1
+691,Programowanie_8,322,1991,Wyklad | Laboratorium | Projekt,85,1987,1
+692,Analiza_Matematyczna_4,206,1963,Wyklad | Cwiczenia,26,1906,1
+693,Bazy_Danych_0,258,1992,Wyklad | Laboratorium | Projekt,261,1932,1
+694,Grafika_Komputerowa_1,609,1984,Wyklad | Cwiczenia,279,1902,1
+695,Analiza_Algorytmów_7,611,1997,Wyklad | Laboratorium | Projekt,264,1935,1
+696,Języki_Programowania_5,301,1981,Wyklad | Laboratorium | Projekt,278,1959,1
+697,Analiza_Algorytmów_4,455,1926,Wyklad | Laboratorium | Projekt,98,1905,1
+698,Analiza_Matematyczna_6,474,1966,Wyklad | Laboratorium | Projekt,166,1927,1
+699,Analiza_Algorytmów_0,197,1955,Wyklad | Cwiczenia,79,1913,1
+,1
