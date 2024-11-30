@@ -48,4 +48,3 @@
 747,Programowanie_9,432,2004,Wyklad | Laboratorium,159,2002,1
 748,Języki_Programowania_6,456,2004,Wyklad | Laboratorium | Projekt,294,2004,1
 749,Multimedia_I_Interfejsy_0,319,2004,Wyklad | Cwiczenia,228,2002,1
-,1

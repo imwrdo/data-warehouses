@@ -1,2 +1,2 @@
 use hurtownie
-select * from Date_
+select count(*) from Date_
