@@ -59,7 +59,7 @@ CREATE TABLE Classes(
     SubjectID INT FOREIGN KEY REFERENCES Subjects(SubjectID),
     DateID INT FOREIGN KEY REFERENCES Date_(DateID),
     TimeID INT FOREIGN KEY REFERENCES Time_(TimeID),
-    Grade DECIMAL CHECK(Grade >= 0 AND Grade<7),
+    Grade DECIMAL(1,1) CHECK(Grade >= 0 AND Grade<=6),
     PRIMARY KEY(StudentID,TeacherID,SubjectID,DateID,TimeID)
 );
 
@@ -86,6 +86,6 @@ CREATE TABLE Exam(
     -- DD ExaminatorID
     ExaminatorID INT NOT NULL CHECK(ISNUMERIC(ExaminatorID)=1),
 
-    Grade DECIMAL NOT NULL CHECK(Grade>0 AND Grade<100),
+    Grade DECIMAL(4,1) NOT NULL CHECK(Grade>=0 AND Grade<=100),
     PRIMARY KEY(StudentID,SubjectID,DateID,ExaminatorID)
 );
