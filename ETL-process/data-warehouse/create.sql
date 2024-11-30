@@ -27,7 +27,7 @@ CREATE TABLE Student(
     Family_name VARCHAR(30) NOT NULL CHECK (ISNUMERIC(Family_name) = 0),
     Parent_number VARCHAR(11) NOT NULL CHECK (Parent_number LIKE '[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]'),
     Email VARCHAR(50) NOT NULL CHECK (Email LIKE '%@%.%'),
-    ClassID VARCHAR(3) NOT NULL CHECK (ClassID LIKE '[0-9]-[A-Z]'),
+    ClassID VARCHAR(3) NOT NULL CHECK (ClassID LIKE '[A-Z]-[0-9]'),
     Year_of_graduation INT NOT NULL CHECK(Year_of_graduation LIKE '[0-9][0-9][0-9][0-9]'),
     isCurrent BIT
 );
@@ -37,7 +37,7 @@ CREATE TABLE Teacher(
     TeacherNo INT NOT NULL CHECK (ISNUMERIC(TeacherNo) = 1),
     First_name VARCHAR(30) NOT NULL CHECK (ISNUMERIC(First_name) = 0),
     Family_name VARCHAR(30) NOT NULL CHECK (ISNUMERIC(Family_name) = 0),
-    Phone_number VARCHAR(11) NOT NULL CHECK (Phone_number LIKE '[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]'),
+    Phone_number VARCHAR(11) NOT NULL CHECK (Phone_number LIKE '[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]')
 );
 
 CREATE TABLE Subjects(
@@ -49,7 +49,7 @@ CREATE TABLE Subjects(
     Types_of_lessons VARCHAR(100),
     hourRange VARCHAR(20),
     Year_ INT NOT NULL CHECK(Year_>1800),
-    isCurrent BIT NOT NULL,
+    isCurrent BIT NOT NULL
 );
 
  -- Fact table 
