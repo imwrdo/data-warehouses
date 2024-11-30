@@ -1,9 +1,9 @@
 import random
 
 # Define the range of IDs and other constraints
-num_students = 13899  # Replace with the actual number of students
-num_teachers = 1100   # Replace with the actual number of teachers
-num_subjects = 749    # Replace with the actual number of subjects
+num_students = 9999  # Replace with the actual number of students
+num_teachers = 999   # Replace with the actual number of teachers
+num_subjects = 699    # Replace with the actual number of subjects
 num_dates = 14012     # Replace with the actual number of dates
 num_times = 17      # Replace with the actual number of time entries
 grade_min = 1.0
@@ -34,6 +34,15 @@ with open("Classes_1_data.txt", "w") as file:
 
         # Write the row to the file
         file.write(f"{student_id},{teacher_id},{subject_id},{date_id},{time_id},{grade}\n")
+
+num_students = 13899  # Replace with the actual number of students
+num_teachers = 1100   # Replace with the actual number of teachers
+num_subjects = 749    # Replace with the actual number of subjects
+num_dates = 14012     # Replace with the actual number of dates
+num_times = 17      # Replace with the actual number of time entries
+grade_min = 1.0
+grade_max = 6.0
+
 
 with open("Classes_2_data.txt", "w") as file:
     for _ in range(20000):

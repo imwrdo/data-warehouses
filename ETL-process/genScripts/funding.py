@@ -1,6 +1,6 @@
 import random
 
-num_subjects = 749    # Replace with the actual number of subjects
+num_subjects = 699    # Replace with the actual number of subjects
 num_dates = 14012     # Replace with the actual number of dates
 funding_max = 2000000.0
 
@@ -28,6 +28,8 @@ with open("Fundings_1_data.txt", "w") as file:
 
         # Write the row to the file
         file.write(f"{subject_id},{date_id},{transaction_id},{partner_id},{grant_amount}\n")
+
+num_subjects = 749 
 
 with open("Fundings_2_data.txt", "w") as file:
     for _ in range(20000):
