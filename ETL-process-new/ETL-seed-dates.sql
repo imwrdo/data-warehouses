@@ -1,14 +1,11 @@
 use hurtownie
 
-DECLARE @startDate DATE = '1970-01-01'
+DECLARE @startDate DATE = '1800-01-01'
 DECLARE @endDate DATE = '2024-01-01'
 
 WHILE @startDate <= @endDate
 BEGIN
-    IF DATEPART(WEEKDAY, @startDate) NOT IN (1, 7) -- Pomijamy niedziele (1) i sobote (7)
-       AND NOT (
-           MONTH(@startDate) = 12 AND DAY(@startDate) IN (25, 31) -- Boże Narodzenie i Sylwester
-       )
+    
     BEGIN
         INSERT INTO Date_ (Day_, Year_, Month_, MonthNo)
         SELECT

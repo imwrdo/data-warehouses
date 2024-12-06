@@ -1,7 +1,7 @@
 USE hurtownie;
 GO
 
-IF OBJECT_ID('vETLTeacher') IS NOT NULL DROP VIEW vETLTeacher;
+IF OBJECT_ID('vETLTeacher','V') IS NOT NULL DROP VIEW vETLTeacher;
 GO
 
 CREATE VIEW vETLTeacher AS
@@ -10,7 +10,7 @@ SELECT
     First_name,
     Family_name,
     Phone_number
-FROM dbo.Teacher;
+FROM LiderDB.dbo.Teacher;
 GO
 
 MERGE INTO Teacher AS TT

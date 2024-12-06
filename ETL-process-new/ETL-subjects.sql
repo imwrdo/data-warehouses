@@ -1,7 +1,7 @@
 USE hurtownie;
 GO
 
-IF OBJECT_ID('vETLSubjects') IS NOT NULL DROP VIEW vETLSubjects;
+IF OBJECT_ID('vETLSubjects','V') IS NOT NULL DROP VIEW vETLSubjects;
 GO
 
 CREATE VIEW vETLSubjects AS
@@ -18,7 +18,7 @@ SELECT
     END,
     Year_,
     isCurrent = CASE WHEN Year_of_actualization >= YEAR(GETDATE()) THEN 1 ELSE 0 END
-FROM dbo.Subjects;
+FROM LiderDB.dbo.Subjects;
 GO
 
 MERGE INTO Subjects AS TT

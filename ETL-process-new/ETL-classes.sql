@@ -1,7 +1,7 @@
 USE hurtownie;
 GO
 
-IF OBJECT_ID('vETLClasses') IS NOT NULL DROP VIEW vETLClasses;
+IF OBJECT_ID('vETLClasses','V') IS NOT NULL DROP VIEW vETLClasses;
 GO
 
 CREATE VIEW vETLClasses AS
@@ -9,10 +9,10 @@ SELECT
     StudentID = (SELECT StudentID FROM Student WHERE StudentNo = CAST(SUBSTRING(ST.StudentID, 2, LEN(ST.StudentID)) AS INT)),
     TeacherID = (SELECT TeacherID FROM Teacher WHERE TeacherNo = CAST(SUBSTRING(ST.TeacherID, 2, LEN(ST.TeacherID)) AS INT)),
     SubjectID = (SELECT SubjectID FROM Subjects WHERE SubjectNo = CAST(ST.SubjectID AS INT)),
-    DateID = (SELECT DateID FROM Date_ WHERE Day_ = DAY(ST.Date_) AND MonthNo = MONTH(ST.Date_) AND Year_ = YEAR(ST.Date_)),
+    DateID = (SELECT DateID FROM Date_ WHERE Day_ = DAY(CONVERT(DATE,ST.Date_,120)) AND MonthNo = MONTH(CONVERT(DATE,ST.Date_,120)) AND Year_ = YEAR(CONVERT(DATE,ST.Date_,120))),
     TimeID = (SELECT TimeID FROM Time_ WHERE Hour_ = DATEPART(HOUR, GETDATE())),
     Grade = NULL -- Placeholder, as no direct grade exists
-FROM dbo.Classes AS ST;
+FROM LiderDB.dbo.Classes AS ST;
 GO
 
 MERGE INTO Classes AS TT

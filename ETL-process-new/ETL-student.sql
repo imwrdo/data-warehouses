@@ -1,7 +1,8 @@
 USE hurtownie;
 GO
 
-IF OBJECT_ID('vETLStudent') IS NOT NULL DROP VIEW vETLStudent;
+IF OBJECT_ID('vETLStudent','V') IS NOT NULL 
+	DROP VIEW vETLStudent;
 GO
 
 CREATE VIEW vETLStudent AS
@@ -12,9 +13,9 @@ SELECT
     Parent_number,
     Email,
     ClassID = LEFT(ClassID, 1) + '-' + RIGHT(ClassID, 1),
-    Year_of_graduation = YEAR(Year_of_graduation),
-    isCurrent = CASE WHEN Year_of_graduation >= YEAR(GETDATE()) THEN 1 ELSE 0 END
-FROM dbo.Student;
+    Year_of_graduation = CAST(YEAR(Year_of_graduation) AS INT),
+    isCurrent = CASE WHEN Year(Year_of_graduation) >= YEAR(GETDATE()) THEN 1 ELSE 0 END
+FROM LiderDB.dbo.Student;
 GO
 
 MERGE INTO Student AS TT
