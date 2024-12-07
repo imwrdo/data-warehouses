@@ -1,17 +1,17 @@
 USE hurtownie;
 GO
 
-IF OBJECT_ID('vETLExam') IS NOT NULL DROP VIEW vETLExam;
+IF OBJECT_ID('vETLExam','V') IS NOT NULL DROP VIEW vETLExam;
 GO
 
 CREATE VIEW vETLExam AS
 SELECT 
     StudentID = (SELECT StudentID FROM Student WHERE StudentNo = CAST(SUBSTRING(E.StudentID, 2, LEN(E.StudentID)) AS INT)),
     SubjectID = (SELECT SubjectID FROM Subjects WHERE SubjectNo = CAST(E.SubjectID AS INT)),
-    DateID = (SELECT DateID FROM Date_ WHERE Day_ = DAY(E.Date_) AND MonthNo = MONTH(E.Date_) AND Year_ = YEAR(E.Date_)),
+    DateID = (SELECT DateID FROM Date_ WHERE Day_ = DAY(Date_) AND MonthNo = MONTH(Date_) AND Year_ = YEAR(Date_)),
     ExaminatorID = CAST(SUBSTRING(E.ExaminatorID, 2, LEN(E.ExaminatorID)) AS INT),
     Grade = E.Grade
-FROM dbo.Exam_grades AS E;
+FROM LiderDB.dbo.Exam_grades AS E;
 GO
 
 MERGE INTO Exam AS TT

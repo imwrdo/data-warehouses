@@ -28,11 +28,12 @@ SELECT
     SubjectID = (SELECT SubjectID FROM Subjects WHERE SubjectNo = CAST(Purpose AS INT)),
     DateID = (SELECT DateID FROM Date_ WHERE Day_ = DAY(Date_) AND MonthNo = MONTH(Date_) AND Year_ = YEAR(Date_)),
     TransactionID = CAST(TransactionID AS INT),
-    PartnerID = (SELECT PartnerID FROM PartnerMapping WHERE PartnerMapping.Partner_name = Funding.Partner_name),
+    PartnerID = (SELECT PartnerID FROM PartnerMapping WHERE PartnerMapping.Partner_name = LiderDB.dbo.Funding.Partner_name),
     Grant_amount
 FROM LiderDB.dbo.Funding;
 GO
-select * from PartnerMapping
+
+
 -- Perform the MERGE operation
 MERGE INTO Funding AS TT
 USING vETLFunding AS ST

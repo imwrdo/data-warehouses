@@ -1,5 +1,5 @@
 BULK INSERT Student
-FROM 'C:\Users\User\Desktop\save\save2\Students_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Students_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -8,7 +8,7 @@ WITH
 )
 
 BULK INSERT Teacher
-FROM 'C:\Users\User\Desktop\save\save2\Teachers_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Teachers_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -17,7 +17,7 @@ WITH
 )
 
 BULK INSERT Subjects
-FROM 'C:\Users\User\Desktop\save\save2\Subjects_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Subjects_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -26,7 +26,7 @@ WITH
 )
 
 BULK INSERT Classes
-FROM 'C:\Users\User\Desktop\save\save2\Classes_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Classes_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -35,7 +35,7 @@ WITH
 )
 
 BULK INSERT Reviews
-FROM 'C:\Users\User\Desktop\save\save2\Reviews_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Reviews_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -44,7 +44,7 @@ WITH
 )
 
 BULK INSERT Funding
-FROM 'C:\Users\User\Desktop\save\save2\Fundings_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Fundings_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -53,7 +53,7 @@ WITH
 )
 
 BULK INSERT Olympiads
-FROM 'C:\Users\User\Desktop\save\save2\Olympiads_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Olympiads_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',
@@ -62,7 +62,7 @@ WITH
 )
 
 BULK INSERT Exam_grades
-FROM 'C:\Users\User\Desktop\save\save2\Exam_1_data.txt'
+FROM 'C:\Users\MIdax\Desktop\Projects\CurlyGayHD\data-warehouses\ETL-process-new\db-implementation\data_bulk\Exam_1_data.txt'
 WITH
 (
   FIELDTERMINATOR = ',',

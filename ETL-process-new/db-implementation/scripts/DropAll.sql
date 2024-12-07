@@ -1,4 +1,5 @@
-
+use LiderDB
+go
 
 DROP TABLE IF EXISTS Reviews;
 DROP TABLE IF EXISTS Funding;

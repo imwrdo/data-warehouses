@@ -1,4 +1,4 @@
 use hurtownie
 go
 
-select * from Date_
+select * from Student
