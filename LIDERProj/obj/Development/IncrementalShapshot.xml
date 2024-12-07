@@ -1,0 +1,110 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>LIDERProj</Database>
+    <Server>DESKTOP-ILABUHV\SQLSERV</Server>
+    <ConnectionString>Data Source=DESKTOP-ILABUHV\SQLSERV;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>EiFNKIeBMTEVMs9hoUH6op2xFfk=12/7/2024 8:43:57 PM12/7/2024 8:23:16 PM</TimeStamp>
+        <ID>
+          <String>Hurtownie</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>6oXdFkKJXZgNLLOIFzGix6kfBsA=12/7/2024 8:27:55 PM12/7/2024 8:27:55 PM</TimeStamp>
+        <ID>
+          <String>Hurtownie</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>zwYXM2UizLMmEX9nevJZlNWld/o=12/7/2024 8:32:38 PM12/7/2024 8:28:23 PM</TimeStamp>
+        <ID>
+          <String>Subjects</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Ul3NFZ2V7+lwsA3JBAZhiXIbfrQ=12/7/2024 8:41:05 PM12/7/2024 8:28:23 PM</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>SFwKzkQN5vzo1zdKx8/zLCtFK6A=12/7/2024 8:35:10 PM12/7/2024 8:28:23 PM</TimeStamp>
+        <ID>
+          <String>Student</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>xte7ZeCT4AiGQyvtmHPl0ODWIgc=12/7/2024 8:41:05 PM12/7/2024 8:28:23 PM</TimeStamp>
+        <ID>
+          <String>Time</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>A1yytTtamckm3TluwyZevkyDua0=12/7/2024 8:35:10 PM12/7/2024 8:28:23 PM</TimeStamp>
+        <ID>
+          <String>Teacher</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>iuctBWiM3BRMtlMToX9idFPE18U=12/7/2024 8:50:45 PM12/7/2024 8:50:45 PM</TimeStamp>
+        <ID>
+          <String>Examinator</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>sZDRZmckfqAuFaf4K0CrZFcJMsc=12/7/2024 8:52:36 PM12/7/2024 8:52:35 PM</TimeStamp>
+        <ID>
+          <String>Transaction</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>XsODgYtmbhyOGAUW3IxFYre3lA4=12/7/2024 9:03:02 PM12/7/2024 9:03:02 PM</TimeStamp>
+        <ID>
+          <String>Partner</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>icwDLb7FCjm1MynNvVymrEaprDQ=12/7/2024 9:44:28 PM12/7/2024 8:28:23 PM2E8IAVf+XoJszfcm9UxVybt4678=12/7/2024 9:42:15 PM12/7/2024 8:28:23 PM</TimeStamp>
+        <ID>
+          <String>Hurtownie</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>IJJor5axI1z2LikUP7BWnVWfdK0=12/7/2024 7:14:42 PM12/7/2024 7:14:42 PM</TimeStamp>
+      <ID>
+        <String>LIDERProj</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-12-07T20:44:36.903333Z</LastDeployed>
+</DeploymentSnapshot>

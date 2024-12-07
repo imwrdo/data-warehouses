@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIdax\\source\\repos\\LIDERProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBD16C9-567A-4F38-A47F-F3620105CEC8}|LIDERProj.dwproj|C:\\Users\\MIdax\\source\\repos\\LIDERProj\\Hurtownie.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{AFBD16C9-567A-4F38-A47F-F3620105CEC8}|LIDERProj.dwproj|solutionrelative:Hurtownie.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hurtownie.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\MIdax\\source\\repos\\LIDERProj\\Hurtownie.cube",
+              "RelativeDocumentMoniker": "Hurtownie.cube",
+              "ToolTip": "C:\\Users\\MIdax\\source\\repos\\LIDERProj\\Hurtownie.cube [Design]",
+              "RelativeToolTip": "Hurtownie.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T19:28:23.897Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
