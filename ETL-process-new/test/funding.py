@@ -14,7 +14,7 @@ def combine_file(file1, output_file):
             # Read and write the contents of the first file
             for row in infile1:
                 parts = row.strip().split(",")
-                parts[4] = random.randint(1, 100)
+                parts[4] = float(random.randint(1, 100))
                 writer.writerow(parts)
             # Read and write the contents of the second file
 
